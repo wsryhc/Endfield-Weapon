@@ -1,651 +1,651 @@
-{   "updateTime": "2026-03-16", 
-    "remark": "近期更新：更新了新的三把武器，图片已补齐。",
-"items":
-[
-  {
-    "name": "落草",
-    "rarity": 6,
-    "tags": [
-      "敏捷提升",
-      "攻击提升",
-      "迸发"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/落草.webp"
-  },
-  {
-    "name": "光荣记忆",
-    "rarity": 6,
-    "tags": [
-      "敏捷提升",
-      "暴击率提升",
-      "夜幕"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/光荣记忆.webp"
-  },
-  {
-    "name": "望乡",
-    "rarity": 6,
-    "tags": [
-      "敏捷提升",
-      "寒冷伤害提升",
-      "压制"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/望乡.webp"
-  },
-  {
-    "name": "骑士精神",
-    "rarity": 6,
-    "tags": [
-      "意志提升",
-      "生命提升",
-      "医疗"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/骑士精神.webp"
-  },
-  {
-    "name": "遗忘",
-    "rarity": 6,
-    "tags": [
-      "智识提升",
-      "法术提升",
-      "夜幕"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/遗忘.webp"
-  },
-  {
-    "name": "爆破单元",
-    "rarity": 6,
-    "tags": [
-      "主能力提升",
-      "源石技艺强度提升",
-      "迸发"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/爆破单元.webp"
-  },
-  {
-    "name": "作品：蚀迹",
-    "rarity": 6,
-    "tags": [
-      "意志提升",
-      "自然伤害提升",
-      "压制"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/作品：蚀迹.webp"
-  },
-  {
-    "name": "沧溟星梦",
-    "rarity": 6,
-    "tags": [
-      "智识提升",
-      "治疗效率提升",
-      "附术"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/沧溟星梦.webp"
-  },
-  {
-    "name": "使命必达",
-    "rarity": 6,
-    "tags": [
-      "意志提升",
-      "终结技充能效率提升",
-      "追袭"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/使命必达.webp"
-  },
-  {
-    "name": "O.B.J.术识",
-    "rarity": 5,
-    "tags": [
-      "智识提升",
-      "源石技艺强度提升",
-      "追袭"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/O.B.J.术识.webp"
-  },
-  {
-    "name": "布道自由",
-    "rarity": 5,
-    "tags": [
-      "意志提升",
-      "治疗效率提升",
-      "医疗"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/布道自由.webp"
-  },
-  {
-    "name": "迷失荒野",
-    "rarity": 5,
-    "tags": [
-      "智识提升",
-      "电磁伤害提升",
-      "附术"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/迷失荒野.webp"
-  },
-  {
-    "name": "莫奈何",
-    "rarity": 5,
-    "tags": [
-      "意志提升",
-      "终结技充能效率提升",
-      "昂扬"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/莫奈何.webp"
-  },
-  {
-    "name": "悼亡诗",
-    "rarity": 5,
-    "tags": [
-      "智识提升",
-      "攻击提升",
-      "夜幕"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/悼亡诗.webp"
-  },
-  {
-    "name": "荧光雷羽",
-    "rarity": 4,
-    "tags": [
-      "意志提升",
-      "攻击提升",
-      "压制"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/荧光雷羽.webp"
-  },
-  {
-    "name": "全自动骇新星",
-    "rarity": 4,
-    "tags": [
-      "智识提升",
-      "法术提升",
-      "昂扬"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/全自动骇新星.webp"
-  },
-  {
-    "name": "吉米尼12",
-    "rarity": 3,
-    "tags": [
-      "主能力提升",
-      "强攻"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/吉米尼12.webp"
-  },
-  {
-    "name": "同类相食",
-    "rarity": 6,
-    "tags": [
-      "主能力提升",
-      "法术提升",
-      "附术"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/同类相食.webp"
-  },
-  {
-    "name": "楔子",
-    "rarity": 6,
-    "tags": [
-      "主能力提升",
-      "暴击率提升",
-      "附术"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/楔子.webp"
-  },
-  {
-    "name": "领航者",
-    "rarity": 6,
-    "tags": [
-      "智识提升",
-      "寒冷伤害提升",
-      "附术"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/领航者.webp"
-  },
-  {
-    "name": "艺术暴君",
-    "rarity": 6,
-    "tags": [
-      "智识提升",
-      "暴击率提升",
-      "切骨"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/艺术暴君.webp"
-  },
-  {
-    "name": "理性告别",
-    "rarity": 5,
-    "tags": [
-      "力量提升",
-      "灼热伤害提升",
-      "追袭"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/理性告别.webp"
-  },
-  {
-    "name": "O.B.J.迅极",
-    "rarity": 5,
-    "tags": [
-      "敏捷提升",
-      "终结技充能效率提升",
-      "迸发"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/O.B.J.迅极.webp"
-  },
-  {
-    "name": "作品：众生",
-    "rarity": 5,
-    "tags": [
-      "敏捷提升",
-      "法术提升",
-      "附术"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/作品：众生.webp"
-  },
-  {
-    "name": "长路",
-    "rarity": 4,
-    "tags": [
-      "力量提升",
-      "法术提升",
-      "追袭"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/长路.webp"
-  },
-  {
-    "name": "呼啸守卫",
-    "rarity": 4,
-    "tags": [
-      "智识提升",
-      "攻击提升",
-      "压制"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/呼啸守卫.webp"
-  },
-  {
-    "name": "佩科5",
-    "rarity": 3,
-    "tags": [
-      "主能力提升",
-      "强攻"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/佩科5.webp"
-  },
-  {
-    "name": "J.E.T.",
-    "rarity": 6,
-    "tags": [
-      "主能力提升",
-      "攻击提升",
-      "压制"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/J.E.T..webp"
-  },
-  {
-    "name": "骁勇",
-    "rarity": 6,
-    "tags": [
-      "敏捷提升",
-      "物理伤害提升",
-      "巧技"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/骁勇.webp"
-  },
-  {
-    "name": "负山",
-    "rarity": 6,
-    "tags": [
-      "敏捷提升",
-      "物理伤害提升",
-      "效益"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/负山.webp"
-  },
-  {
-    "name": "向心之引",
-    "rarity": 5,
-    "tags": [
-      "意志提升",
-      "电磁伤害提升",
-      "压制"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/向心之引.webp"
-  },
-  {
-    "name": "O.B.J.尖峰",
-    "rarity": 5,
-    "tags": [
-      "意志提升",
-      "物理伤害提升",
-      "附术"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/O.B.J.尖峰.webp"
-  },
-  {
-    "name": "嵌合正义",
-    "rarity": 5,
-    "tags": [
-      "力量提升",
-      "终结技充能效率提升",
-      "残暴"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/嵌合正义.webp"
-  },
-  {
-    "name": "天使杀手",
-    "rarity": 4,
-    "tags": [
-      "意志提升",
-      "法术提升",
-      "压制"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/天使杀手.webp"
-  },
-  {
-    "name": "寻路者道标",
-    "rarity": 4,
-    "tags": [
-      "敏捷提升",
-      "攻击提升",
-      "昂扬"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/寻路者道标.webp"
-  },
-  {
-    "name": "奥佩罗77",
-    "rarity": 3,
-    "tags": [
-      "主能力提升",
-      "强攻"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/奥佩罗77.webp"
-  },
-  {
-    "name": "破碎君王",
-    "rarity": 6,
-    "tags": [
-      "力量提升",
-      "暴击率提升",
-      "粉碎"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/破碎君王.webp"
-  },
-  {
-    "name": "昔日精品",
-    "rarity": 6,
-    "tags": [
-      "意志提升",
-      "生命提升",
-      "效益"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/昔日精品.webp"
-  },
-  {
-    "name": "典范",
-    "rarity": 6,
-    "tags": [
-      "主能力提升",
-      "攻击提升",
-      "压制"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/典范.webp"
-  },
-  {
-    "name": "赫拉芬格",
-    "rarity": 6,
-    "tags": [
-      "力量提升",
-      "攻击提升",
-      "迸发"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/赫拉芬格.webp"
-  },
-  {
-    "name": "大雷斑",
-    "rarity": 6,
-    "tags": [
-      "力量提升",
-      "生命提升",
-      "医疗"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/大雷斑.webp"
-  },
-  {
-    "name": "O.B.J.重荷",
-    "rarity": 5,
-    "tags": [
-      "力量提升",
-      "生命提升",
-      "效益"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/O.B.J.重荷.webp"
-  },
-  {
-    "name": "终点之声",
-    "rarity": 5,
-    "tags": [
-      "力量提升",
-      "生命提升",
-      "医疗"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/终点之声.webp"
-  },
-  {
-    "name": "古渠",
-    "rarity": 5,
-    "tags": [
-      "力量提升",
-      "源石技艺强度提升",
-      "残暴"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/古渠.webp"
-  },
-  {
-    "name": "探骊",
-    "rarity": 5,
-    "tags": [
-      "力量提升",
-      "终结技充能效率提升",
-      "迸发"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/探骊.webp"
-  },
-  {
-    "name": "淬火者",
-    "rarity": 4,
-    "tags": [
-      "意志提升",
-      "生命提升",
-      "粉碎"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/淬火者.webp"
-  },
-  {
-    "name": "工业零点一",
-    "rarity": 4,
-    "tags": [
-      "力量提升",
-      "攻击提升",
-      "压制"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/工业零点一.webp"
-  },
-  {
-    "name": "达尔霍夫7",
-    "rarity": 3,
-    "tags": [
-      "主能力提升",
-      "强攻"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/达尔霍夫7.webp"
-  },
-  {
-    "name": "白夜新星",
-    "rarity": 6,
-    "tags": [
-      "主能力提升",
-      "源石技艺强度提升",
-      "附术"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/白夜新星.webp"
-  },
-  {
-    "name": "显赫声名",
-    "rarity": 6,
-    "tags": [
-      "主能力提升",
-      "物理伤害提升",
-      "残暴"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/显赫声名.webp"
-  },
-  {
-    "name": "热熔切割器",
-    "rarity": 6,
-    "tags": [
-      "意志提升",
-      "攻击提升",
-      "流转"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/热熔切割器.webp"
-  },
-  {
-    "name": "扶摇",
-    "rarity": 6,
-    "tags": [
-      "主能力提升",
-      "暴击率提升",
-      "夜幕"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/扶摇.webp"
-  },
-  {
-    "name": "黯色火炬",
-    "rarity": 6,
-    "tags": [
-      "智识提升",
-      "灼热伤害提升",
-      "附术"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/黯色火炬.webp"
-  },
-  {
-    "name": "熔铸火焰",
-    "rarity": 6,
-    "tags": [
-      "智识提升",
-      "攻击提升",
-      "夜幕"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/熔铸火焰.webp"
-  },
-  {
-    "name": "不知归",
-    "rarity": 6,
-    "tags": [
-      "意志提升",
-      "攻击提升",
-      "流转"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/不知归.webp"
-  },
-  {
-    "name": "宏愿",
-    "rarity": 6,
-    "tags": [
-      "敏捷提升",
-      "攻击提升",
-      "附术"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/宏愿.webp"
-  },
-  {
-    "name": "仰止",
-    "rarity": 5,
-    "tags": [
-      "敏捷提升",
-      "物理伤害提升",
-      "夜幕"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/仰止.webp"
-  },
-  {
-    "name": "O.B.J.轻芒",
-    "rarity": 5,
-    "tags": [
-      "敏捷提升",
-      "攻击提升",
-      "流转"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/O.B.J.轻芒.webp"
-  },
-  {
-    "name": "十二问",
-    "rarity": 5,
-    "tags": [
-      "敏捷提升",
-      "攻击提升",
-      "附术"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/十二问.webp"
-  },
-  {
-    "name": "逐鳞3.0",
-    "rarity": 5,
-    "tags": [
-      "力量提升",
-      "寒冷伤害提升",
-      "压制"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/逐鳞3.0.webp"
-  },
-  {
-    "name": "坚城铸造者",
-    "rarity": 5,
-    "tags": [
-      "智识提升",
-      "终结技充能效率提升",
-      "昂扬"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/坚城铸造者.webp"
-  },
-  {
-    "name": "钢铁余音",
-    "rarity": 5,
-    "tags": [
-      "敏捷提升",
-      "物理伤害提升",
-      "巧技"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/钢铁余音.webp"
-  },
-  {
-    "name": "浪潮",
-    "rarity": 4,
-    "tags": [
-      "智识提升",
-      "攻击提升",
-      "追袭"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/浪潮.webp"
-  },
-  {
-    "name": "应急手段",
-    "rarity": 4,
-    "tags": [
-      "敏捷提升",
-      "物理伤害提升",
-      "压制"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/应急手段.webp"
-  },
-  {
-    "name": "塔尔11",
-    "rarity": 3,
-    "tags": [
-      "主能力提升",
-      "强攻"
-    ],
-    "image": "https://wsryhc.top/endfield/weapon_images_opt/塔尔11.webp"
-  }
-]
+{
+  "updateTime": "2026-03-16",
+  "remark": "近期更新：更新了新的三把武器，图片已补齐。",
+  "items": [
+    {
+      "name": "落草",
+      "rarity": 6,
+      "tags": [
+        "敏捷提升",
+        "攻击提升",
+        "迸发"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/落草.webp"
+    },
+    {
+      "name": "望乡",
+      "rarity": 6,
+      "tags": [
+        "敏捷提升",
+        "寒冷伤害提升",
+        "压制"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/望乡.webp"
+    },
+    {
+      "name": "光荣记忆",
+      "rarity": 6,
+      "tags": [
+        "敏捷提升",
+        "暴击率提升",
+        "夜幕"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/光荣记忆.webp"
+    },
+    {
+      "name": "艺术暴君",
+      "rarity": 6,
+      "tags": [
+        "智识提升",
+        "暴击率提升",
+        "切骨"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/艺术暴君.webp"
+    },
+    {
+      "name": "使命必达",
+      "rarity": 6,
+      "tags": [
+        "意志提升",
+        "终结技充能效率提升",
+        "追袭"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/使命必达.webp"
+    },
+    {
+      "name": "熔铸火焰",
+      "rarity": 6,
+      "tags": [
+        "智识提升",
+        "攻击提升",
+        "夜幕"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/熔铸火焰.webp"
+    },
+    {
+      "name": "黯色火炬",
+      "rarity": 6,
+      "tags": [
+        "智识提升",
+        "灼热伤害提升",
+        "附术"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/黯色火炬.webp"
+    },
+    {
+      "name": "领航者",
+      "rarity": 6,
+      "tags": [
+        "智识提升",
+        "寒冷伤害提升",
+        "附术"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/领航者.webp"
+    },
+    {
+      "name": "作品：蚀迹",
+      "rarity": 6,
+      "tags": [
+        "意志提升",
+        "自然伤害提升",
+        "压制"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/作品：蚀迹.webp"
+    },
+    {
+      "name": "骑士精神",
+      "rarity": 6,
+      "tags": [
+        "意志提升",
+        "生命提升",
+        "医疗"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/骑士精神.webp"
+    },
+    {
+      "name": "遗忘",
+      "rarity": 6,
+      "tags": [
+        "智识提升",
+        "法术提升",
+        "夜幕"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/遗忘.webp"
+    },
+    {
+      "name": "爆破单元",
+      "rarity": 6,
+      "tags": [
+        "主能力提升",
+        "源石技艺强度提升",
+        "迸发"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/爆破单元.webp"
+    },
+    {
+      "name": "沧溟星梦",
+      "rarity": 6,
+      "tags": [
+        "智识提升",
+        "治疗效率提升",
+        "附术"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/沧溟星梦.webp"
+    },
+    {
+      "name": "同类相食",
+      "rarity": 6,
+      "tags": [
+        "主能力提升",
+        "法术提升",
+        "附术"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/同类相食.webp"
+    },
+    {
+      "name": "楔子",
+      "rarity": 6,
+      "tags": [
+        "主能力提升",
+        "暴击率提升",
+        "附术"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/楔子.webp"
+    },
+    {
+      "name": "J.E.T.",
+      "rarity": 6,
+      "tags": [
+        "主能力提升",
+        "攻击提升",
+        "压制"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/J.E.T..webp"
+    },
+    {
+      "name": "骁勇",
+      "rarity": 6,
+      "tags": [
+        "敏捷提升",
+        "物理伤害提升",
+        "巧技"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/骁勇.webp"
+    },
+    {
+      "name": "负山",
+      "rarity": 6,
+      "tags": [
+        "敏捷提升",
+        "物理伤害提升",
+        "效益"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/负山.webp"
+    },
+    {
+      "name": "破碎君王",
+      "rarity": 6,
+      "tags": [
+        "力量提升",
+        "暴击率提升",
+        "粉碎"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/破碎君王.webp"
+    },
+    {
+      "name": "昔日精品",
+      "rarity": 6,
+      "tags": [
+        "意志提升",
+        "生命提升",
+        "效益"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/昔日精品.webp"
+    },
+    {
+      "name": "典范",
+      "rarity": 6,
+      "tags": [
+        "主能力提升",
+        "攻击提升",
+        "压制"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/典范.webp"
+    },
+    {
+      "name": "赫拉芬格",
+      "rarity": 6,
+      "tags": [
+        "力量提升",
+        "攻击提升",
+        "迸发"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/赫拉芬格.webp"
+    },
+    {
+      "name": "大雷斑",
+      "rarity": 6,
+      "tags": [
+        "力量提升",
+        "生命提升",
+        "医疗"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/大雷斑.webp"
+    },
+    {
+      "name": "白夜新星",
+      "rarity": 6,
+      "tags": [
+        "主能力提升",
+        "源石技艺强度提升",
+        "附术"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/白夜新星.webp"
+    },
+    {
+      "name": "显赫声名",
+      "rarity": 6,
+      "tags": [
+        "主能力提升",
+        "物理伤害提升",
+        "残暴"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/显赫声名.webp"
+    },
+    {
+      "name": "热熔切割器",
+      "rarity": 6,
+      "tags": [
+        "意志提升",
+        "攻击提升",
+        "流转"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/热熔切割器.webp"
+    },
+    {
+      "name": "扶摇",
+      "rarity": 6,
+      "tags": [
+        "主能力提升",
+        "暴击率提升",
+        "夜幕"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/扶摇.webp"
+    },
+    {
+      "name": "不知归",
+      "rarity": 6,
+      "tags": [
+        "意志提升",
+        "攻击提升",
+        "流转"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/不知归.webp"
+    },
+    {
+      "name": "宏愿",
+      "rarity": 6,
+      "tags": [
+        "敏捷提升",
+        "攻击提升",
+        "附术"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/宏愿.webp"
+    },
+    {
+      "name": "O.B.J.术识",
+      "rarity": 5,
+      "tags": [
+        "智识提升",
+        "源石技艺强度提升",
+        "追袭"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/O.B.J.术识.webp"
+    },
+    {
+      "name": "布道自由",
+      "rarity": 5,
+      "tags": [
+        "意志提升",
+        "治疗效率提升",
+        "医疗"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/布道自由.webp"
+    },
+    {
+      "name": "迷失荒野",
+      "rarity": 5,
+      "tags": [
+        "智识提升",
+        "电磁伤害提升",
+        "附术"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/迷失荒野.webp"
+    },
+    {
+      "name": "莫奈何",
+      "rarity": 5,
+      "tags": [
+        "意志提升",
+        "终结技充能效率提升",
+        "昂扬"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/莫奈何.webp"
+    },
+    {
+      "name": "悼亡诗",
+      "rarity": 5,
+      "tags": [
+        "智识提升",
+        "攻击提升",
+        "夜幕"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/悼亡诗.webp"
+    },
+    {
+      "name": "理性告别",
+      "rarity": 5,
+      "tags": [
+        "力量提升",
+        "灼热伤害提升",
+        "追袭"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/理性告别.webp"
+    },
+    {
+      "name": "O.B.J.迅极",
+      "rarity": 5,
+      "tags": [
+        "敏捷提升",
+        "终结技充能效率提升",
+        "迸发"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/O.B.J.迅极.webp"
+    },
+    {
+      "name": "作品：众生",
+      "rarity": 5,
+      "tags": [
+        "敏捷提升",
+        "法术提升",
+        "附术"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/作品：众生.webp"
+    },
+    {
+      "name": "向心之引",
+      "rarity": 5,
+      "tags": [
+        "意志提升",
+        "电磁伤害提升",
+        "压制"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/向心之引.webp"
+    },
+    {
+      "name": "O.B.J.尖峰",
+      "rarity": 5,
+      "tags": [
+        "意志提升",
+        "物理伤害提升",
+        "附术"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/O.B.J.尖峰.webp"
+    },
+    {
+      "name": "嵌合正义",
+      "rarity": 5,
+      "tags": [
+        "力量提升",
+        "终结技充能效率提升",
+        "残暴"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/嵌合正义.webp"
+    },
+    {
+      "name": "O.B.J.重荷",
+      "rarity": 5,
+      "tags": [
+        "力量提升",
+        "生命提升",
+        "效益"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/O.B.J.重荷.webp"
+    },
+    {
+      "name": "终点之声",
+      "rarity": 5,
+      "tags": [
+        "力量提升",
+        "生命提升",
+        "医疗"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/终点之声.webp"
+    },
+    {
+      "name": "古渠",
+      "rarity": 5,
+      "tags": [
+        "力量提升",
+        "源石技艺强度提升",
+        "残暴"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/古渠.webp"
+    },
+    {
+      "name": "探骊",
+      "rarity": 5,
+      "tags": [
+        "力量提升",
+        "终结技充能效率提升",
+        "迸发"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/探骊.webp"
+    },
+    {
+      "name": "仰止",
+      "rarity": 5,
+      "tags": [
+        "敏捷提升",
+        "物理伤害提升",
+        "夜幕"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/仰止.webp"
+    },
+    {
+      "name": "O.B.J.轻芒",
+      "rarity": 5,
+      "tags": [
+        "敏捷提升",
+        "攻击提升",
+        "流转"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/O.B.J.轻芒.webp"
+    },
+    {
+      "name": "十二问",
+      "rarity": 5,
+      "tags": [
+        "敏捷提升",
+        "攻击提升",
+        "附术"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/十二问.webp"
+    },
+    {
+      "name": "逐鳞3.0",
+      "rarity": 5,
+      "tags": [
+        "力量提升",
+        "寒冷伤害提升",
+        "压制"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/逐鳞3.0.webp"
+    },
+    {
+      "name": "坚城铸造者",
+      "rarity": 5,
+      "tags": [
+        "智识提升",
+        "终结技充能效率提升",
+        "昂扬"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/坚城铸造者.webp"
+    },
+    {
+      "name": "钢铁余音",
+      "rarity": 5,
+      "tags": [
+        "敏捷提升",
+        "物理伤害提升",
+        "巧技"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/钢铁余音.webp"
+    },
+    {
+      "name": "荧光雷羽",
+      "rarity": 4,
+      "tags": [
+        "意志提升",
+        "攻击提升",
+        "压制"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/荧光雷羽.webp"
+    },
+    {
+      "name": "全自动骇新星",
+      "rarity": 4,
+      "tags": [
+        "智识提升",
+        "法术提升",
+        "昂扬"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/全自动骇新星.webp"
+    },
+    {
+      "name": "长路",
+      "rarity": 4,
+      "tags": [
+        "力量提升",
+        "法术提升",
+        "追袭"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/长路.webp"
+    },
+    {
+      "name": "呼啸守卫",
+      "rarity": 4,
+      "tags": [
+        "智识提升",
+        "攻击提升",
+        "压制"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/呼啸守卫.webp"
+    },
+    {
+      "name": "天使杀手",
+      "rarity": 4,
+      "tags": [
+        "意志提升",
+        "法术提升",
+        "压制"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/天使杀手.webp"
+    },
+    {
+      "name": "寻路者道标",
+      "rarity": 4,
+      "tags": [
+        "敏捷提升",
+        "攻击提升",
+        "昂扬"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/寻路者道标.webp"
+    },
+    {
+      "name": "淬火者",
+      "rarity": 4,
+      "tags": [
+        "意志提升",
+        "生命提升",
+        "粉碎"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/淬火者.webp"
+    },
+    {
+      "name": "工业零点一",
+      "rarity": 4,
+      "tags": [
+        "力量提升",
+        "攻击提升",
+        "压制"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/工业零点一.webp"
+    },
+    {
+      "name": "浪潮",
+      "rarity": 4,
+      "tags": [
+        "智识提升",
+        "攻击提升",
+        "追袭"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/浪潮.webp"
+    },
+    {
+      "name": "显锋",
+      "rarity": 4,
+      "tags": [
+        "敏捷提升",
+        "物理伤害提升",
+        "压制"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/显锋.webp"
+    },
+    {
+      "name": "吉米尼12",
+      "rarity": 3,
+      "tags": [
+        "主能力提升",
+        "强攻"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/吉米尼12.webp"
+    },
+    {
+      "name": "佩科5",
+      "rarity": 3,
+      "tags": [
+        "主能力提升",
+        "强攻"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/佩科5.webp"
+    },
+    {
+      "name": "奥佩罗77",
+      "rarity": 3,
+      "tags": [
+        "主能力提升",
+        "强攻"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/奥佩罗77.webp"
+    },
+    {
+      "name": "达尔霍夫7",
+      "rarity": 3,
+      "tags": [
+        "主能力提升",
+        "强攻"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/达尔霍夫7.webp"
+    },
+    {
+      "name": "塔尔11",
+      "rarity": 3,
+      "tags": [
+        "主能力提升",
+        "强攻"
+      ],
+      "image": "https://wsryhc.top/endfield/weapon_images_opt/塔尔11.webp"
+    }
+  ]
 }
