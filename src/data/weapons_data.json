@@ -1,5 +1,5 @@
-{   "updateTime": "2026-03-12", 
-    "remark": "近期更新：更新了新的三把武器，对应图片还在寻找中。",
+{   "updateTime": "2026-03-16", 
+    "remark": "近期更新：更新了新的三把武器，图片已补齐。",
 "items":
 [
   {
@@ -10,7 +10,7 @@
       "攻击提升",
       "迸发"
     ],
-    "image": ""
+    "image": "https://wsryhc.top/endfield/weapon_images_opt/落草.webp"
   },
   {
     "name": "光荣记忆",
@@ -20,7 +20,7 @@
       "暴击率提升",
       "夜幕"
     ],
-    "image": ""
+    "image": "https://wsryhc.top/endfield/weapon_images_opt/光荣记忆.webp"
   },
   {
     "name": "望乡",
@@ -30,7 +30,7 @@
       "寒冷伤害提升",
       "压制"
     ],
-    "image": ""
+    "image": "https://wsryhc.top/endfield/weapon_images_opt/望乡.webp"
   },
   {
     "name": "骑士精神",
