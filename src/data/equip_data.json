@@ -1,2119 +1,2499 @@
 {
-  "updateTime": "2026-03-08",
-  "remark": "",
-  "items":
-[
-  {
-    "name": "长息辅助臂",
-    "rarity": 5,
-    "tags": [
-      "防御力+21",
-      "意志+32",
-      "智识+21",
-      "终结技充能效率+24.6%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=1002",
-    "image": "https://wsryhc.top/endfield/equip_images/长息辅助臂.webp"
-  },
-  {
-    "name": "长息护手·壹型",
-    "rarity": 5,
-    "tags": [
-      "防御力+42",
-      "智识+65",
-      "意志+43",
-      "终结技充能效率+20.5%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=1001",
-    "image": "https://wsryhc.top/endfield/equip_images/长息护手·壹型.webp"
-  },
-  {
-    "name": "长息护手",
-    "rarity": 5,
-    "tags": [
-      "防御力+42",
-      "智识+65",
-      "力量+43",
-      "终结技充能效率+20.5%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=1000",
-    "image": "https://wsryhc.top/endfield/equip_images/长息护手.webp"
-  },
-  {
-    "name": "长息蓄电核",
-    "rarity": 5,
-    "tags": [
-      "防御力+21",
-      "智识+32",
-      "力量+21",
-      "终结技充能效率+24.6%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=999",
-    "image": "https://wsryhc.top/endfield/equip_images/长息蓄电核.webp"
-  },
-  {
-    "name": "长息蓄电核·壹型",
-    "rarity": 5,
-    "tags": [
-      "防御力+21",
-      "智识+32",
-      "意志+21",
-      "治疗效率加成+20.7%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=998",
-    "image": "https://wsryhc.top/endfield/equip_images/长息蓄电核·壹型.webp"
-  },
-  {
-    "name": "长息装甲",
-    "rarity": 5,
-    "tags": [
-      "防御力+56",
-      "意志+87",
-      "智识+58",
-      "源石技艺强度+20"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=997",
-    "image": "https://wsryhc.top/endfield/equip_images/长息装甲.webp"
-  },
-  {
-    "name": "浊流切割炬",
-    "rarity": 5,
-    "tags": [
-      "防御力+21",
-      "智识+32",
-      "力量+21",
-      "普通攻击伤害加成+27.6%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=996",
-    "image": "https://wsryhc.top/endfield/equip_images/浊流切割炬.webp"
-  },
-  {
-    "name": "悬河供氧栓",
-    "rarity": 5,
-    "tags": [
-      "防御力+21",
-      "力量+32",
-      "意志+21",
-      "寒冷和电磁伤害加成+23.0%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=995",
-    "image": "https://wsryhc.top/endfield/equip_images/悬河供氧栓.webp"
-  },
-  {
-    "name": "潮涌手甲",
-    "rarity": 5,
-    "tags": [
-      "防御力+42",
-      "力量+65",
-      "意志+43",
-      "寒冷和电磁伤害加成+19.2%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=994",
-    "image": "https://wsryhc.top/endfield/equip_images/潮涌手甲.webp"
-  },
-  {
-    "name": "落潮轻甲",
-    "rarity": 5,
-    "tags": [
-      "防御力+56",
-      "智识+87",
-      "力量+58",
-      "终结技充能效率+12.3%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=993",
-    "image": "https://wsryhc.top/endfield/equip_images/落潮轻甲.webp"
-  },
-  {
-    "name": "50式应龙短刃·壹型",
-    "rarity": 5,
-    "tags": [
-      "防御力+21",
-      "智识+32",
-      "力量+21",
-      "所有技能伤害加成+27.6%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=992",
-    "image": "https://wsryhc.top/endfield/equip_images/50式应龙短刃·壹型.webp"
-  },
-  {
-    "name": "50式应龙短刃",
-    "rarity": 5,
-    "tags": [
-      "防御力+21",
-      "意志+32",
-      "敏捷+21",
-      "连携技伤害加成+41.4%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=991",
-    "image": "https://wsryhc.top/endfield/equip_images/50式应龙短刃.webp"
-  },
-  {
-    "name": "50式应龙雷达",
-    "rarity": 5,
-    "tags": [
-      "防御力+21",
-      "力量+32",
-      "意志+21",
-      "物理伤害加成+23.0%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=990",
-    "image": "https://wsryhc.top/endfield/equip_images/50式应龙雷达.webp"
-  },
-  {
-    "name": "50式应龙护手·壹型",
-    "rarity": 5,
-    "tags": [
-      "防御力+42",
-      "意志+65",
-      "敏捷+43",
-      "连携技伤害加成+34.5%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=989",
-    "image": "https://wsryhc.top/endfield/equip_images/50式应龙护手·壹型.webp"
-  },
-  {
-    "name": "50式应龙护手",
-    "rarity": 5,
-    "tags": [
-      "防御力+42",
-      "敏捷+65",
-      "智识+43",
-      "连携技伤害加成+34.5%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=988",
-    "image": "https://wsryhc.top/endfield/equip_images/50式应龙护手.webp"
-  },
-  {
-    "name": "50式应龙轻甲",
-    "rarity": 5,
-    "tags": [
-      "防御力+56",
-      "意志+87",
-      "力量+58",
-      "所有技能伤害加成+13.8%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=987",
-    "image": "https://wsryhc.top/endfield/equip_images/50式应龙轻甲.webp"
-  },
-  {
-    "name": "50式应龙重甲",
-    "rarity": 5,
-    "tags": [
-      "防御力+56",
-      "力量+87",
-      "意志+58",
-      "物理伤害加成+11.5%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=986",
-    "image": "https://wsryhc.top/endfield/equip_images/50式应龙重甲.webp"
-  },
-  {
-    "name": "M.I.警用刺刃·壹型",
-    "rarity": 5,
-    "tags": [
-      "防御力+21",
-      "意志+32",
-      "敏捷+21",
-      "战技伤害加成+41.4%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=977",
-    "image": "https://wsryhc.top/endfield/equip_images/M.I.警用刺刃·壹型.webp"
-  },
-  {
-    "name": "M.I.警用刺刃",
-    "rarity": 5,
-    "tags": [
-      "防御力+21",
-      "意志+32",
-      "智识+21",
-      "灼热和自然伤害加成+23.0%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=976",
-    "image": "https://wsryhc.top/endfield/equip_images/M.I.警用刺刃.webp"
-  },
-  {
-    "name": "M.I.警用工具组",
-    "rarity": 5,
-    "tags": [
-      "防御力+21",
-      "智识+32",
-      "敏捷+21",
-      "暴击率+10.4%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=975",
-    "image": "https://wsryhc.top/endfield/equip_images/M.I.警用工具组.webp"
-  },
-  {
-    "name": "M.I.警用瞄具",
-    "rarity": 5,
-    "tags": [
-      "防御力+21",
-      "敏捷+32",
-      "力量+21",
-      "战技伤害加成+41.4%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=974",
-    "image": "https://wsryhc.top/endfield/equip_images/M.I.警用瞄具.webp"
-  },
-  {
-    "name": "M.I.警用臂环",
-    "rarity": 5,
-    "tags": [
-      "防御力+21",
-      "力量+32",
-      "意志+21",
-      "寒冷和电磁伤害加成+23.0%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=973",
-    "image": "https://wsryhc.top/endfield/equip_images/M.I.警用臂环.webp"
-  },
-  {
-    "name": "M.I.警用手环·壹型",
-    "rarity": 5,
-    "tags": [
-      "防御力+42",
-      "智识+65",
-      "意志+43",
-      "暴击率+8.6%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=972",
-    "image": "https://wsryhc.top/endfield/equip_images/M.I.警用手环·壹型.webp"
-  },
-  {
-    "name": "M.I.警用手环",
-    "rarity": 5,
-    "tags": [
-      "防御力+42",
-      "智识+65",
-      "敏捷+43",
-      "普通攻击伤害加成+23.0%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=971",
-    "image": "https://wsryhc.top/endfield/equip_images/M.I.警用手环.webp"
-  },
-  {
-    "name": "M.I.警用手套",
-    "rarity": 5,
-    "tags": [
-      "防御力+42",
-      "敏捷+65",
-      "力量+43",
-      "战技伤害加成+34.5%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=970",
-    "image": "https://wsryhc.top/endfield/equip_images/M.I.警用手套.webp"
-  },
-  {
-    "name": "M.I.警用罩衣·贰型",
-    "rarity": 5,
-    "tags": [
-      "防御力+56",
-      "意志+87",
-      "敏捷+58",
-      "战技伤害加成+20.7%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=968",
-    "image": "https://wsryhc.top/endfield/equip_images/M.I.警用罩衣·贰型.webp"
-  },
-  {
-    "name": "M.I.警用罩衣·壹型",
-    "rarity": 5,
-    "tags": [
-      "防御力+56",
-      "智识+87",
-      "意志+58",
-      "暴击率+5.2%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=967",
-    "image": "https://wsryhc.top/endfield/equip_images/M.I.警用罩衣·壹型.webp"
-  },
-  {
-    "name": "M.I.警用罩衣",
-    "rarity": 5,
-    "tags": [
-      "防御力+56",
-      "智识+87",
-      "敏捷+58",
-      "普通攻击伤害加成+13.8%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=966",
-    "image": "https://wsryhc.top/endfield/equip_images/M.I.警用罩衣.webp"
-  },
-  {
-    "name": "M.I.警用护甲",
-    "rarity": 5,
-    "tags": [
-      "防御力+56",
-      "敏捷+87",
-      "力量+58",
-      "源石技艺强度+20"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=965",
-    "image": "https://wsryhc.top/endfield/equip_images/M.I.警用护甲.webp"
-  },
-  {
-    "name": "动火用电力匣",
-    "rarity": 5,
-    "tags": [
-      "防御力+21",
-      "意志+32",
-      "智识+21",
-      "源石技艺强度+41"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=964",
-    "image": "https://wsryhc.top/endfield/equip_images/动火用电力匣.webp"
-  },
-  {
-    "name": "动火用测温镜",
-    "rarity": 5,
-    "tags": [
-      "防御力+21",
-      "智识+41",
-      "战技伤害加成+41.4%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=963",
-    "image": "https://wsryhc.top/endfield/equip_images/动火用测温镜.webp"
-  },
-  {
-    "name": "动火用储能匣",
-    "rarity": 5,
-    "tags": [
-      "防御力+21",
-      "力量+32",
-      "敏捷+21",
-      "源石技艺强度+41"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=962",
-    "image": "https://wsryhc.top/endfield/equip_images/动火用储能匣.webp"
-  },
-  {
-    "name": "动火用手甲·壹型",
-    "rarity": 5,
-    "tags": [
-      "防御力+42",
-      "意志+65",
-      "智识+43",
-      "灼热和自然伤害加成+19.2%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=961",
-    "image": "https://wsryhc.top/endfield/equip_images/动火用手甲·壹型.webp"
-  },
-  {
-    "name": "动火用手甲",
-    "rarity": 5,
-    "tags": [
-      "防御力+42",
-      "智识65",
-      "力量+43",
-      "灼热和自然伤害加成+19.2%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=960",
-    "image": "https://wsryhc.top/endfield/equip_images/动火用手甲.webp"
-  },
-  {
-    "name": "动火用外骨骼",
-    "rarity": 5,
-    "tags": [
-      "防御力+56",
-      "力量+87",
-      "敏捷+58",
-      "灼热和自然伤害加成+11.5%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=959",
-    "image": "https://wsryhc.top/endfield/equip_images/动火用外骨骼.webp"
-  },
-  {
-    "name": "轻超域稳定盘",
-    "rarity": 5,
-    "tags": [
-      "防御力+21",
-      "敏捷+32",
-      "力量+21",
-      "源石技艺强度+41"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=958",
-    "image": "https://wsryhc.top/endfield/equip_images/轻超域稳定盘.webp"
-  },
-  {
-    "name": "轻超域分析环",
-    "rarity": 5,
-    "tags": [
-      "防御力+21",
-      "力量+32",
-      "意志+21",
-      "物理伤害加成+23.0%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=957",
-    "image": "https://wsryhc.top/endfield/equip_images/轻超域分析环.webp"
-  },
-  {
-    "name": "轻超域护手",
-    "rarity": 5,
-    "tags": [
-      "防御力+42",
-      "敏捷+65",
-      "力量+43",
-      "源石技艺强度+34"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=956",
-    "image": "https://wsryhc.top/endfield/equip_images/轻超域护手.webp"
-  },
-  {
-    "name": "轻超域护板",
-    "rarity": 5,
-    "tags": [
-      "防御力+56",
-      "力量+87",
-      "意志+58",
-      "对失衡目标伤害加成+20.7%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=955",
-    "image": "https://wsryhc.top/endfield/equip_images/轻超域护板.webp"
-  },
-  {
-    "name": "拓荒增量供氧栓",
-    "rarity": 5,
-    "tags": [
-      "防御力+21",
-      "敏捷+32",
-      "智识+21",
-      "副能力+20.7%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=954",
-    "image": "https://wsryhc.top/endfield/equip_images/拓荒增量供氧栓.webp"
-  },
-  {
-    "name": "拓荒通信器·壹型",
-    "rarity": 5,
-    "tags": [
-      "防御力+21",
-      "力量+32",
-      "智识+21",
-      "寒冷和电磁伤害加成+23.0%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=953",
-    "image": "https://wsryhc.top/endfield/equip_images/拓荒通信器·壹型.webp"
-  },
-  {
-    "name": "拓荒通信器",
-    "rarity": 5,
-    "tags": [
-      "防御力+21",
-      "力量+32",
-      "敏捷+21",
-      "连携技伤害加成+41.4%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=952",
-    "image": "https://wsryhc.top/endfield/equip_images/拓荒通信器.webp"
-  },
-  {
-    "name": "拓荒耐蚀手套",
-    "rarity": 5,
-    "tags": [
-      "防御力+42",
-      "敏捷+65",
-      "智识+43",
-      "战技伤害加成+34.5%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=951",
-    "image": "https://wsryhc.top/endfield/equip_images/拓荒耐蚀手套.webp"
-  },
-  {
-    "name": "拓荒护甲·叄型",
-    "rarity": 5,
-    "tags": [
-      "防御力+56",
-      "敏捷+87",
-      "智识+58",
-      "副能力+10.4%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=950",
-    "image": "https://wsryhc.top/endfield/equip_images/拓荒护甲·叄型.webp"
-  },
-  {
-    "name": "拓荒护甲·贰型",
-    "rarity": 5,
-    "tags": [
-      "防御力+56",
-      "敏捷+87",
-      "智识+58",
-      "战技伤害加成+20.7%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=949",
-    "image": "https://wsryhc.top/endfield/equip_images/拓荒护甲·贰型.webp"
-  },
-  {
-    "name": "拓荒护甲·壹型",
-    "rarity": 5,
-    "tags": [
-      "防御力+56",
-      "力量+87",
-      "敏捷+58",
-      "战技伤害加成+20.7%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=948",
-    "image": "https://wsryhc.top/endfield/equip_images/拓荒护甲·壹型.webp"
-  },
-  {
-    "name": "拓荒护甲",
-    "rarity": 5,
-    "tags": [
-      "防御力+56",
-      "力量+87",
-      "智识+58",
-      "终结技伤害加成+25.9%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=947",
-    "image": "https://wsryhc.top/endfield/equip_images/拓荒护甲.webp"
-  },
-  {
-    "name": "脉冲式校准器",
-    "rarity": 5,
-    "tags": [
-      "防御力+21",
-      "智识+41",
-      "源石技艺强度+41"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=946",
-    "image": "https://wsryhc.top/endfield/equip_images/脉冲式校准器.webp"
-  },
-  {
-    "name": "脉冲式手套",
-    "rarity": 5,
-    "tags": [
-      "防御力+42",
-      "意志+65",
-      "智识+43",
-      "寒冷和电磁伤害加成+19.2%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=945",
-    "image": "https://wsryhc.top/endfield/equip_images/脉冲式手套.webp"
-  },
-  {
-    "name": "脉冲式干扰服",
-    "rarity": 5,
-    "tags": [
-      "防御力+56",
-      "智识+87",
-      "意志+58",
-      "源石技艺强度+20"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=944",
-    "image": "https://wsryhc.top/endfield/equip_images/脉冲式干扰服.webp"
-  },
-  {
-    "name": "碾骨小雕像·壹型",
-    "rarity": 5,
-    "tags": [
-      "防御力+21",
-      "意志+32",
-      "智识+21",
-      "连携技伤害加成+41.4%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=943",
-    "image": "https://wsryhc.top/endfield/equip_images/碾骨小雕像·壹型.webp"
-  },
-  {
-    "name": "碾骨小雕像",
-    "rarity": 5,
-    "tags": [
-      "防御力+21",
-      "意志+32",
-      "敏捷+21",
-      "战技伤害加成+41.4%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=942",
-    "image": "https://wsryhc.top/endfield/equip_images/碾骨小雕像.webp"
-  },
-  {
-    "name": "碾骨面具·壹型",
-    "rarity": 5,
-    "tags": [
-      "防御力+21",
-      "敏捷+32",
-      "力量+21",
-      "暴击率+10.4%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=941",
-    "image": "https://wsryhc.top/endfield/equip_images/碾骨面具·壹型.webp"
-  },
-  {
-    "name": "碾骨面具",
-    "rarity": 5,
-    "tags": [
-      "防御力+21",
-      "敏捷+32",
-      "力量+21",
-      "对失衡目标伤害加成+41.4%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=940",
-    "image": "https://wsryhc.top/endfield/equip_images/碾骨面具.webp"
-  },
-  {
-    "name": "碾骨披巾·壹型",
-    "rarity": 5,
-    "tags": [
-      "防御力+56",
-      "意志+87",
-      "敏捷+58",
-      "终结技充能效率+12.3%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=939",
-    "image": "https://wsryhc.top/endfield/equip_images/碾骨披巾·壹型.webp"
-  },
-  {
-    "name": "碾骨披巾",
-    "rarity": 5,
-    "tags": [
-      "防御力+56",
-      "意志+87",
-      "力量+58",
-      "连携技伤害加成+20.7%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=938",
-    "image": "https://wsryhc.top/endfield/equip_images/碾骨披巾.webp"
-  },
-  {
-    "name": "碾骨重护甲·壹型",
-    "rarity": 5,
-    "tags": [
-      "防御力+56",
-      "敏捷+87",
-      "力量+58",
-      "连携技伤害加成+20.7%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=937",
-    "image": "https://wsryhc.top/endfield/equip_images/碾骨重护甲·壹型.webp"
-  },
-  {
-    "name": "碾骨重护甲",
-    "rarity": 5,
-    "tags": [
-      "防御力+56",
-      "敏捷+87",
-      "智识+58",
-      "终结技充能效率+12.3%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=936",
-    "image": "https://wsryhc.top/endfield/equip_images/碾骨重护甲.webp"
-  },
-  {
-    "name": "生物辅助护盾针",
-    "rarity": 5,
-    "tags": [
-      "防御力+21",
-      "意志+41",
-      "治疗效率加成+20.7%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=891",
-    "image": "https://wsryhc.top/endfield/equip_images/生物辅助护盾针.webp"
-  },
-  {
-    "name": "生物辅助护板",
-    "rarity": 5,
-    "tags": [
-      "防御力+21",
-      "意志+32",
-      "智识+21",
-      "主能力+20.7%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=890",
-    "image": "https://wsryhc.top/endfield/equip_images/生物辅助护板.webp"
-  },
-  {
-    "name": "生物辅助接驳器·壹型",
-    "rarity": 5,
-    "tags": [
-      "防御力+21",
-      "力量+32",
-      "意志+21",
-      "生命值+41.4%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=889",
-    "image": "https://wsryhc.top/endfield/equip_images/生物辅助接驳器·壹型.webp"
-  },
-  {
-    "name": "生物辅助接驳器",
-    "rarity": 5,
-    "tags": [
-      "防御力+21",
-      "力量+32",
-      "意志+21",
-      "全伤害减免17.2%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=888",
-    "image": "https://wsryhc.top/endfield/equip_images/生物辅助接驳器.webp"
-  },
-  {
-    "name": "生物辅助手甲",
-    "rarity": 5,
-    "tags": [
-      "防御力+42",
-      "意志+65",
-      "力量+43",
-      "治疗效率加成+17.3%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=887",
-    "image": "https://wsryhc.top/endfield/equip_images/生物辅助手甲.webp"
-  },
-  {
-    "name": "生物辅助臂甲",
-    "rarity": 5,
-    "tags": [
-      "防御力+42",
-      "力量+65",
-      "意志+43",
-      "终结技充能效率+20.5%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=886",
-    "image": "https://wsryhc.top/endfield/equip_images/生物辅助臂甲.webp"
-  },
-  {
-    "name": "生物辅助胸甲",
-    "rarity": 5,
-    "tags": [
-      "防御力+56",
-      "意志+87",
-      "智识+58",
-      "治疗效率加成+10.4%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=885",
-    "image": "https://wsryhc.top/endfield/equip_images/生物辅助胸甲.webp"
-  },
-  {
-    "name": "生物辅助重甲",
-    "rarity": 5,
-    "tags": [
-      "防御力+56",
-      "力量+87",
-      "意志+58",
-      "治疗效率加成+10.4%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=884",
-    "image": "https://wsryhc.top/endfield/equip_images/生物辅助重甲.webp"
-  },
-  {
-    "name": "点剑火石",
-    "rarity": 5,
-    "tags": [
-      "防御力+21",
-      "敏捷+32",
-      "力量+21",
-      "物理伤害加成+23.0%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=883",
-    "image": "https://wsryhc.top/endfield/equip_images/点剑火石.webp"
-  },
-  {
-    "name": "点剑战术手甲",
-    "rarity": 5,
-    "tags": [
-      "防御力+42",
-      "敏捷+65",
-      "力量+43",
-      "终结技伤害加成+43.1%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=882",
-    "image": "https://wsryhc.top/endfield/equip_images/点剑战术手甲.webp"
-  },
-  {
-    "name": "点剑战术手套",
-    "rarity": 5,
-    "tags": [
-      "防御力+42",
-      "力量+65",
-      "意志+43",
-      "物理伤害加成+19.2%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=881",
-    "image": "https://wsryhc.top/endfield/equip_images/点剑战术手套.webp"
-  },
-  {
-    "name": "点剑重装甲",
-    "rarity": 5,
-    "tags": [
-      "防御力+56",
-      "敏捷+87",
-      "力量+58",
-      "源石技艺强度+20"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=880",
-    "image": "https://wsryhc.top/endfield/equip_images/点剑重装甲.webp"
-  },
-  {
-    "name": "天灾防护滤芯",
-    "rarity": 4,
-    "tags": [
-      "防御力+15",
-      "意志+23",
-      "智识+15",
-      "源石技艺强度+29"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=879",
-    "image": "https://wsryhc.top/endfield/equip_images/天灾防护滤芯.webp"
-  },
-  {
-    "name": "天灾防护净芯·壹型",
-    "rarity": 4,
-    "tags": [
-      "防御力+15",
-      "力量+23",
-      "意志+15",
-      "副能力+14.7%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=878",
-    "image": "https://wsryhc.top/endfield/equip_images/天灾防护净芯·壹型.webp"
-  },
-  {
-    "name": "天灾防护净芯",
-    "rarity": 4,
-    "tags": [
-      "防御力+15",
-      "力量+23",
-      "智识+15",
-      "终结技伤害加成+36.8%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=877",
-    "image": "https://wsryhc.top/endfield/equip_images/天灾防护净芯.webp"
-  },
-  {
-    "name": "天灾防护手套",
-    "rarity": 4,
-    "tags": [
-      "防御力+30",
-      "意志+46",
-      "智识+30",
-      "源石技艺强度+24"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=876",
-    "image": "https://wsryhc.top/endfield/equip_images/天灾防护手套.webp"
-  },
-  {
-    "name": "天灾防护重甲·壹型",
-    "rarity": 4,
-    "tags": [
-      "防御力+40",
-      "力量+61",
-      "意志+41",
-      "终结技充能效率+8.8%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=875",
-    "image": "https://wsryhc.top/endfield/equip_images/天灾防护重甲·壹型.webp"
-  },
-  {
-    "name": "天灾防护重甲",
-    "rarity": 4,
-    "tags": [
-      "防御力+40",
-      "力量+61",
-      "智识+41",
-      "终结技伤害加成+18.4%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=874",
-    "image": "https://wsryhc.top/endfield/equip_images/天灾防护重甲.webp"
-  },
-  {
-    "name": "阿伯莉传感芯片·壹型",
-    "rarity": 4,
-    "tags": [
-      "防御力+15",
-      "意志+23",
-      "智识+15",
-      "战技伤害加成+29.4%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=857",
-    "image": "https://wsryhc.top/endfield/equip_images/阿伯莉传感芯片·壹型.webp"
-  },
-  {
-    "name": "阿伯莉传感芯片",
-    "rarity": 4,
-    "tags": [
-      "防御力+15",
-      "意志+23",
-      "敏捷+15",
-      "战技伤害加成+29.4%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=856",
-    "image": "https://wsryhc.top/endfield/equip_images/阿伯莉传感芯片.webp"
-  },
-  {
-    "name": "阿伯莉照明器",
-    "rarity": 4,
-    "tags": [
-      "防御力+15",
-      "智识+23",
-      "力量+15",
-      "终结技充能效率+17.5%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=855",
-    "image": "https://wsryhc.top/endfield/equip_images/阿伯莉照明器.webp"
-  },
-  {
-    "name": "阿伯莉侦听芯片·壹型",
-    "rarity": 4,
-    "tags": [
-      "防御力+15",
-      "敏捷+23",
-      "力量+15",
-      "连携技伤害加成+29.4%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=854",
-    "image": "https://wsryhc.top/endfield/equip_images/阿伯莉侦听芯片·壹型.webp"
-  },
-  {
-    "name": "阿伯莉紫光灯",
-    "rarity": 4,
-    "tags": [
-      "防御力+15",
-      "力量+23",
-      "敏捷+15",
-      "所有技能伤害加成+19.6%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=853",
-    "image": "https://wsryhc.top/endfield/equip_images/阿伯莉紫光灯.webp"
-  },
-  {
-    "name": "阿伯莉侦听芯片",
-    "rarity": 4,
-    "tags": [
-      "防御力+15",
-      "力量+23",
-      "意志+15",
-      "对失衡目标伤害加成+42.0%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=852",
-    "image": "https://wsryhc.top/endfield/equip_images/阿伯莉侦听芯片.webp"
-  },
-  {
-    "name": "阿伯莉手甲",
-    "rarity": 4,
-    "tags": [
-      "防御力+30",
-      "力量+46",
-      "意志+30",
-      "对失衡目标伤害加成+24.5%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=851",
-    "image": "https://wsryhc.top/endfield/equip_images/阿伯莉手甲.webp"
-  },
-  {
-    "name": "阿伯莉轻甲·壹型",
-    "rarity": 4,
-    "tags": [
-      "防御力+40",
-      "意志+61",
-      "敏捷+41",
-      "战技伤害加成+14.7%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=850",
-    "image": "https://wsryhc.top/endfield/equip_images/阿伯莉轻甲·壹型.webp"
-  },
-  {
-    "name": "阿伯莉轻甲",
-    "rarity": 4,
-    "tags": [
-      "防御力+40",
-      "智识+61",
-      "力量+41",
-      "终结技充能效率+8.8%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=849",
-    "image": "https://wsryhc.top/endfield/equip_images/阿伯莉轻甲.webp"
-  },
-  {
-    "name": "阿伯莉重甲·壹型",
-    "rarity": 4,
-    "tags": [
-      "防御力+40",
-      "敏捷+61",
-      "力量+41",
-      "连携技伤害加成+14.7%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=848",
-    "image": "https://wsryhc.top/endfield/equip_images/阿伯莉重甲·壹型.webp"
-  },
-  {
-    "name": "阿伯莉重甲",
-    "rarity": 4,
-    "tags": [
-      "防御力+40",
-      "力量+61",
-      "敏捷+41",
-      "所有技能伤害加成+9.8%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=847",
-    "image": "https://wsryhc.top/endfield/equip_images/阿伯莉重甲.webp"
-  },
-  {
-    "name": "蚀电防护电池·壹型",
-    "rarity": 4,
-    "tags": [
-      "防御力+15",
-      "意志+23",
-      "敏捷+15",
-      "治疗效率加成+14.7%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=846",
-    "image": "https://wsryhc.top/endfield/equip_images/蚀电防护电池·壹型.webp"
-  },
-  {
-    "name": "蚀电防护扳手·壹型",
-    "rarity": 4,
-    "tags": [
-      "防御力+15",
-      "意志+23",
-      "智识+15",
-      "攻击力+14.7%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=845",
-    "image": "https://wsryhc.top/endfield/equip_images/蚀电防护扳手·壹型.webp"
-  },
-  {
-    "name": "蚀电防护手套·壹型",
-    "rarity": 4,
-    "tags": [
-      "防御力+30",
-      "意志+46",
-      "敏捷+30",
-      "攻击力+12.3%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=844",
-    "image": "https://wsryhc.top/endfield/equip_images/蚀电防护手套·壹型.webp"
-  },
-  {
-    "name": "蚀电防护背心·壹型",
-    "rarity": 4,
-    "tags": [
-      "防御力+40",
-      "意志+61",
-      "智识+41",
-      "生命值+14.7%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=843",
-    "image": "https://wsryhc.top/endfield/equip_images/蚀电防护背心·壹型.webp"
-  },
-  {
-    "name": "蚀电防护电池",
-    "rarity": 3,
-    "tags": [
-      "防御力+10",
-      "意志+21",
-      "治疗效率加成+10.5%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=842",
-    "image": "https://wsryhc.top/endfield/equip_images/蚀电防护电池.webp"
-  },
-  {
-    "name": "蚀电防护扳手",
-    "rarity": 3,
-    "tags": [
-      "防御力+10",
-      "意志+21",
-      "攻击力+10.5%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=841",
-    "image": "https://wsryhc.top/endfield/equip_images/蚀电防护扳手.webp"
-  },
-  {
-    "name": "蚀电防护手套",
-    "rarity": 3,
-    "tags": [
-      "防御力+21",
-      "意志+33",
-      "智识+22",
-      "治疗效率加成+8.8%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=840",
-    "image": "https://wsryhc.top/endfield/equip_images/蚀电防护手套.webp"
-  },
-  {
-    "name": "蚀电防护背心",
-    "rarity": 3,
-    "tags": [
-      "防御力+28",
-      "意志+44",
-      "敏捷+29",
-      "生命值+10.5%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=839",
-    "image": "https://wsryhc.top/endfield/equip_images/蚀电防护背心.webp"
-  },
-  {
-    "name": "蚀电屏蔽电池·壹型",
-    "rarity": 4,
-    "tags": [
-      "防御力+15",
-      "智识+29",
-      "终结技充能效率+17.5%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=838",
-    "image": "https://wsryhc.top/endfield/equip_images/蚀电屏蔽电池·壹型.webp"
-  },
-  {
-    "name": "蚀电屏蔽扳手·贰型",
-    "rarity": 4,
-    "tags": [
-      "防御力+15",
-      "智识+23",
-      "敏捷+15",
-      "攻击力+14.7%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=837",
-    "image": "https://wsryhc.top/endfield/equip_images/蚀电屏蔽扳手·贰型.webp"
-  },
-  {
-    "name": "蚀电屏蔽手套·壹型",
-    "rarity": 4,
-    "tags": [
-      "防御力+30",
-      "智识+46",
-      "力量+30",
-      "攻击力+12.3%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=836",
-    "image": "https://wsryhc.top/endfield/equip_images/蚀电屏蔽手套·壹型.webp"
-  },
-  {
-    "name": "蚀电屏蔽背心·壹型",
-    "rarity": 4,
-    "tags": [
-      "防御力+40",
-      "智识+61",
-      "敏捷+41",
-      "普通攻击伤害加成+9.8%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=835",
-    "image": "https://wsryhc.top/endfield/equip_images/蚀电屏蔽背心·壹型.webp"
-  },
-  {
-    "name": "蚀电屏蔽背心·贰型",
-    "rarity": 4,
-    "tags": [
-      "防御力+40",
-      "智识+61",
-      "意志+41",
-      "生命值+14.7%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=834",
-    "image": "https://wsryhc.top/endfield/equip_images/蚀电屏蔽背心·贰型.webp"
-  },
-  {
-    "name": "蚀电屏蔽电池",
-    "rarity": 3,
-    "tags": [
-      "防御力+10",
-      "智识+21",
-      "暴击率+5.3%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=833",
-    "image": "https://wsryhc.top/endfield/equip_images/蚀电屏蔽电池.webp"
-  },
-  {
-    "name": "蚀电屏蔽扳手·壹型",
-    "rarity": 3,
-    "tags": [
-      "防御力+10",
-      "智识+21",
-      "寒冷和电磁伤害加成+11.7%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=832",
-    "image": "https://wsryhc.top/endfield/equip_images/蚀电屏蔽扳手·壹型.webp"
-  },
-  {
-    "name": "蚀电屏蔽扳手",
-    "rarity": 3,
-    "tags": [
-      "防御力+10",
-      "智识+21",
-      "攻击力+10.5%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=831",
-    "image": "https://wsryhc.top/endfield/equip_images/蚀电屏蔽扳手.webp"
-  },
-  {
-    "name": "蚀电屏蔽手套",
-    "rarity": 3,
-    "tags": [
-      "防御力+21",
-      "智识+33",
-      "意志+22",
-      "法术伤害加成+9.2%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=830",
-    "image": "https://wsryhc.top/endfield/equip_images/蚀电屏蔽手套.webp"
-  },
-  {
-    "name": "蚀电屏蔽背心",
-    "rarity": 3,
-    "tags": [
-      "防御力+28",
-      "智识+44",
-      "力量+29",
-      "攻击力+16"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=829",
-    "image": "https://wsryhc.top/endfield/equip_images/蚀电屏蔽背心.webp"
-  },
-  {
-    "name": "巡行信使陀螺·壹型",
-    "rarity": 4,
-    "tags": [
-      "防御力+15",
-      "敏捷+23",
-      "智识+15",
-      "攻击力+14.7%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=828",
-    "image": "https://wsryhc.top/endfield/equip_images/巡行信使陀螺·壹型.webp"
-  },
-  {
-    "name": "巡行信使手电·壹型",
-    "rarity": 4,
-    "tags": [
-      "防御力+15",
-      "敏捷+23",
-      "力量+15",
-      "连携技伤害加成+29.4%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=827",
-    "image": "https://wsryhc.top/endfield/equip_images/巡行信使手电·壹型.webp"
-  },
-  {
-    "name": "巡行信使手电·贰型",
-    "rarity": 4,
-    "tags": [
-      "防御力+15",
-      "敏捷+23",
-      "力量+15",
-      "终结技伤害加成+36.8%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=826",
-    "image": "https://wsryhc.top/endfield/equip_images/巡行信使手电·贰型.webp"
-  },
-  {
-    "name": "巡行信使手套·壹型",
-    "rarity": 4,
-    "tags": [
-      "防御力+30",
-      "敏捷+46",
-      "力量+30",
-      "攻击力+12.3%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=825",
-    "image": "https://wsryhc.top/endfield/equip_images/巡行信使手套·壹型.webp"
-  },
-  {
-    "name": "巡行信使夹克·壹型",
-    "rarity": 4,
-    "tags": [
-      "防御力+40",
-      "敏捷+61",
-      "智识+41",
-      "生命值+14.7%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=824",
-    "image": "https://wsryhc.top/endfield/equip_images/巡行信使夹克·壹型.webp"
-  },
-  {
-    "name": "巡行信使陀螺",
-    "rarity": 3,
-    "tags": [
-      "防御力+10",
-      "敏捷+21",
-      "攻击力+10.5%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=823",
-    "image": "https://wsryhc.top/endfield/equip_images/巡行信使陀螺.webp"
-  },
-  {
-    "name": "巡行信使手电",
-    "rarity": 3,
-    "tags": [
-      "防御力+10",
-      "敏捷+21",
-      "连携技伤害加成+21.0%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=822",
-    "image": "https://wsryhc.top/endfield/equip_images/巡行信使手电.webp"
-  },
-  {
-    "name": "巡行信使手套",
-    "rarity": 3,
-    "tags": [
-      "防御力+21",
-      "敏捷+33",
-      "力量+22",
-      "物理伤害加成+9.7%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=821",
-    "image": "https://wsryhc.top/endfield/equip_images/巡行信使手套.webp"
-  },
-  {
-    "name": "巡行信使夹克",
-    "rarity": 3,
-    "tags": [
-      "防御力+28",
-      "敏捷+44",
-      "智识+29",
-      "攻击力+16"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=820",
-    "image": "https://wsryhc.top/endfield/equip_images/巡行信使夹克.webp"
-  },
-  {
-    "name": "重装信使陀螺·壹型",
-    "rarity": 4,
-    "tags": [
-      "防御力+15",
-      "力量+23",
-      "意志+15",
-      "攻击力+14.7%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=787",
-    "image": "https://wsryhc.top/endfield/equip_images/重装信使陀螺·壹型.webp"
-  },
-  {
-    "name": "重装信使手电·壹型",
-    "rarity": 4,
-    "tags": [
-      "防御力+15",
-      "力量+23",
-      "敏捷+15",
-      "暴击率+7.4%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=786",
-    "image": "https://wsryhc.top/endfield/equip_images/重装信使手电·壹型.webp"
-  },
-  {
-    "name": "重装信使手套·贰型",
-    "rarity": 4,
-    "tags": [
-      "防御力+30",
-      "力量+46",
-      "敏捷+30",
-      "连携技伤害加成+24.5%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=785",
-    "image": "https://wsryhc.top/endfield/equip_images/重装信使手套·贰型.webp"
-  },
-  {
-    "name": "重装信使手套·壹型",
-    "rarity": 4,
-    "tags": [
-      "防御力+30",
-      "力量+46",
-      "敏捷+30",
-      "攻击力+12.3%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=784",
-    "image": "https://wsryhc.top/endfield/equip_images/重装信使手套·壹型.webp"
-  },
-  {
-    "name": "重装信使夹克·壹型",
-    "rarity": 4,
-    "tags": [
-      "防御力+40",
-      "力量+61",
-      "意志+41",
-      "生命值+14.7%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=783",
-    "image": "https://wsryhc.top/endfield/equip_images/重装信使夹克·壹型.webp"
-  },
-  {
-    "name": "重装信使陀螺",
-    "rarity": 3,
-    "tags": [
-      "防御力+10",
-      "力量+21",
-      "攻击力+10.5%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=782",
-    "image": "https://wsryhc.top/endfield/equip_images/重装信使陀螺.webp"
-  },
-  {
-    "name": "重装信使手电",
-    "rarity": 3,
-    "tags": [
-      "防御力+10",
-      "力量+21",
-      "生命值+21.0%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=781",
-    "image": "https://wsryhc.top/endfield/equip_images/重装信使手电.webp"
-  },
-  {
-    "name": "重装信使手套",
-    "rarity": 3,
-    "tags": [
-      "防御力+21",
-      "力量+33",
-      "意志+22",
-      "全伤害减免8.0%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=780",
-    "image": "https://wsryhc.top/endfield/equip_images/重装信使手套.webp"
-  },
-  {
-    "name": "重装信使夹克",
-    "rarity": 3,
-    "tags": [
-      "防御力+28",
-      "力量+44",
-      "敏捷+29",
-      "生命值+10.5%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=779",
-    "image": "https://wsryhc.top/endfield/equip_images/重装信使夹克.webp"
-  },
-  {
-    "name": "集成化轻甲",
-    "rarity": 2,
-    "tags": [
-      "防御力+22",
-      "智识+30",
-      "意志+30",
-      "战技伤害加成+8.1%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=778",
-    "image": "https://wsryhc.top/endfield/equip_images/集成化轻甲.webp"
-  },
-  {
-    "name": "集成化战术手套",
-    "rarity": 2,
-    "tags": [
-      "防御力+16",
-      "智识+23",
-      "敏捷+23",
-      "连携技伤害加成+13.5%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=777",
-    "image": "https://wsryhc.top/endfield/equip_images/集成化战术手套.webp"
-  },
-  {
-    "name": "集成化轻甲片",
-    "rarity": 2,
-    "tags": [
-      "防御力+8",
-      "智识+16",
-      "连携技伤害加成+16.2%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=776",
-    "image": "https://wsryhc.top/endfield/equip_images/集成化轻甲片.webp"
-  },
-  {
-    "name": "集成化陶瓷板",
-    "rarity": 2,
-    "tags": [
-      "防御力+8",
-      "意志+16",
-      "战技伤害加成+16.2%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=775",
-    "image": "https://wsryhc.top/endfield/equip_images/集成化陶瓷板.webp"
-  },
-  {
-    "name": "集成化重甲",
-    "rarity": 2,
-    "tags": [
-      "防御力+22",
-      "力量+30",
-      "敏捷+30",
-      "全伤害减免3.9%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=774",
-    "image": "https://wsryhc.top/endfield/equip_images/集成化重甲.webp"
-  },
-  {
-    "name": "集成化手甲",
-    "rarity": 2,
-    "tags": [
-      "防御力+16",
-      "力量+23",
-      "意志+23",
-      "全伤害减免6.3%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=773",
-    "image": "https://wsryhc.top/endfield/equip_images/集成化手甲.webp"
-  },
-  {
-    "name": "纾难识别牌",
-    "rarity": 5,
-    "tags": [
-      "防御力+21",
-      "力量+43",
-      "全伤害减免+17.8%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=714",
-    "image": "https://wsryhc.top/endfield/equip_images/纾难识别牌.webp"
-  },
-  {
-    "name": "纾难识别牌·壹型",
-    "rarity": 5,
-    "tags": [
-      "防御力+21",
-      "敏捷+43",
-      "连携技伤害加成+43.2%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=713",
-    "image": "https://wsryhc.top/endfield/equip_images/纾难识别牌·壹型.webp"
-  },
-  {
-    "name": "纾难印章",
-    "rarity": 5,
-    "tags": [
-      "防御力+21",
-      "智识+43",
-      "终结技充能效率+25.7%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=712",
-    "image": "https://wsryhc.top/endfield/equip_images/纾难印章.webp"
-  },
-  {
-    "name": "纾难印章·壹型",
-    "rarity": 5,
-    "tags": [
-      "防御力+21",
-      "意志+43",
-      "暴击率+10.8%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=711",
-    "image": "https://wsryhc.top/endfield/equip_images/纾难印章·壹型.webp"
-  },
-  {
-    "name": "矿场联络仪·壹型",
-    "rarity": 4,
-    "tags": [
-      "防御力+15",
-      "意志+31",
-      "治疗效率加成+15.6%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=710",
-    "image": "https://wsryhc.top/endfield/equip_images/矿场联络仪·壹型.webp"
-  },
-  {
-    "name": "矿场传动轮·壹型",
-    "rarity": 4,
-    "tags": [
-      "防御力+15",
-      "智识+31",
-      "终结技充能效率+18.6%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=709",
-    "image": "https://wsryhc.top/endfield/equip_images/矿场传动轮·壹型.webp"
-  },
-  {
-    "name": "矿场压缩核·壹型",
-    "rarity": 4,
-    "tags": [
-      "防御力+15",
-      "敏捷+31",
-      "连携技伤害加成+31.2%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=708",
-    "image": "https://wsryhc.top/endfield/equip_images/矿场压缩核·壹型.webp"
-  },
-  {
-    "name": "矿场增压轮·壹型",
-    "rarity": 4,
-    "tags": [
-      "防御力+15",
-      "力量+31",
-      "全伤害减免13.5%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=707",
-    "image": "https://wsryhc.top/endfield/equip_images/矿场增压轮·壹型.webp"
-  },
-  {
-    "name": "矿场联络仪",
-    "rarity": 3,
-    "tags": [
-      "防御力+10",
-      "意志+22",
-      "生命值+22.8%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=706",
-    "image": "https://wsryhc.top/endfield/equip_images/矿场联络仪.webp"
-  },
-  {
-    "name": "矿场压缩核",
-    "rarity": 3,
-    "tags": [
-      "防御力+10",
-      "智识+22",
-      "暴击率+5.7%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=705",
-    "image": "https://wsryhc.top/endfield/equip_images/矿场压缩核.webp"
-  },
-  {
-    "name": "矿场传动轮",
-    "rarity": 3,
-    "tags": [
-      "防御力+10",
-      "敏捷+22",
-      "暴击率+5.7%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=704",
-    "image": "https://wsryhc.top/endfield/equip_images/矿场传动轮.webp"
-  },
-  {
-    "name": "矿场增压轮",
-    "rarity": 3,
-    "tags": [
-      "防御力+10",
-      "力量+22",
-      "连携技伤害加成+22.8%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=703",
-    "image": "https://wsryhc.top/endfield/equip_images/矿场增压轮.webp"
-  },
-  {
-    "name": "集成化合金板",
-    "rarity": 2,
-    "tags": [
-      "防御力+8",
-      "敏捷+16",
-      "全伤害减免7.5%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=635",
-    "image": "https://wsryhc.top/endfield/equip_images/集成化合金板.webp"
-  },
-  {
-    "name": "集成化重甲片",
-    "rarity": 2,
-    "tags": [
-      "防御力+8",
-      "力量+16",
-      "全伤害减免7.5%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=633",
-    "image": "https://wsryhc.top/endfield/equip_images/集成化重甲片.webp"
-  },
-  {
-    "name": "应急压缩核",
-    "rarity": 2,
-    "tags": [
-      "防御力+6",
-      "攻击力+13.2%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=632",
-    "image": "https://wsryhc.top/endfield/equip_images/应急压缩核.webp"
-  },
-  {
-    "name": "应急联络仪",
-    "rarity": 2,
-    "tags": [
-      "防御力+6",
-      "暴击率+6.6%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=631",
-    "image": "https://wsryhc.top/endfield/equip_images/应急联络仪.webp"
-  },
-  {
-    "name": "矿场防护服·壹型",
-    "rarity": 4,
-    "tags": [
-      "防御力+40",
-      "智识+65",
-      "敏捷+43",
-      "攻击力+7.8%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=491",
-    "image": "https://wsryhc.top/endfield/equip_images/矿场防护服·壹型.webp"
-  },
-  {
-    "name": "矿场护甲·壹型",
-    "rarity": 4,
-    "tags": [
-      "防御力+40",
-      "力量+65",
-      "意志+43",
-      "暴击率+3.9%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=490",
-    "image": "https://wsryhc.top/endfield/equip_images/矿场护甲·壹型.webp"
-  },
-  {
-    "name": "测试型重甲",
-    "rarity": 2,
-    "tags": [
-      "防御力+22",
-      "力量+37",
-      "智识+25",
-      "攻击力+11"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=489",
-    "image": "https://wsryhc.top/endfield/equip_images/测试型重甲.webp"
-  },
-  {
-    "name": "测试型重甲·壹型",
-    "rarity": 2,
-    "tags": [
-      "防御力+22",
-      "敏捷+37",
-      "意志+25",
-      "攻击力+11"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=488",
-    "image": "https://wsryhc.top/endfield/equip_images/测试型重甲·壹型.webp"
-  },
-  {
-    "name": "矿场轻甲",
-    "rarity": 2,
-    "tags": [
-      "防御力+22",
-      "敏捷+37",
-      "智识+25",
-      "生命值+9.0%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=487",
-    "image": "https://wsryhc.top/endfield/equip_images/矿场轻甲.webp"
-  },
-  {
-    "name": "矿场滤尘衣",
-    "rarity": 2,
-    "tags": [
-      "防御力+22",
-      "意志+37",
-      "敏捷+25",
-      "生命值+9.0%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=486",
-    "image": "https://wsryhc.top/endfield/equip_images/矿场滤尘衣.webp"
-  },
-  {
-    "name": "矿场护甲",
-    "rarity": 2,
-    "tags": [
-      "防御力+16",
-      "力量+27",
-      "敏捷+18",
-      "生命值+125"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=485",
-    "image": "https://wsryhc.top/endfield/equip_images/矿场护甲.webp"
-  },
-  {
-    "name": "矿场防护服",
-    "rarity": 2,
-    "tags": [
-      "防御力+16",
-      "智识+27",
-      "意志+18",
-      "生命值+125"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=484",
-    "image": "https://wsryhc.top/endfield/equip_images/矿场防护服.webp"
-  },
-  {
-    "name": "简易护甲",
-    "rarity": 1,
-    "tags": [
-      "防御力+8",
-      "力量+15",
-      "敏捷+10",
-      "生命值+46"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=483",
-    "image": "https://wsryhc.top/endfield/equip_images/简易护甲.webp"
-  },
-  {
-    "name": "简易护服",
-    "rarity": 1,
-    "tags": [
-      "防御力+8",
-      "智识+15",
-      "意志+10",
-      "生命值+46"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=482",
-    "image": "https://wsryhc.top/endfield/equip_images/简易护服.webp"
-  },
-  {
-    "name": "矿场护手·壹型",
-    "rarity": 4,
-    "tags": [
-      "防御力+30",
-      "意志+49",
-      "智识+32",
-      "终结技充能效率+15.5%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=421",
-    "image": "https://wsryhc.top/endfield/equip_images/矿场护手·壹型.webp"
-  },
-  {
-    "name": "矿场手套·贰型",
-    "rarity": 4,
-    "tags": [
-      "防御力+30",
-      "智识+49",
-      "敏捷+32",
-      "攻击力+13.0%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=420",
-    "image": "https://wsryhc.top/endfield/equip_images/矿场手套·贰型.webp"
-  },
-  {
-    "name": "矿场手套·壹型",
-    "rarity": 3,
-    "tags": [
-      "防御力+21",
-      "智识+36",
-      "敏捷+24",
-      "生命值+19.0%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=419",
-    "image": "https://wsryhc.top/endfield/equip_images/矿场手套·壹型.webp"
-  },
-  {
-    "name": "矿场手甲·壹型",
-    "rarity": 3,
-    "tags": [
-      "防御力+21",
-      "力量+36",
-      "智识+24",
-      "攻击力+9.5%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=418",
-    "image": "https://wsryhc.top/endfield/equip_images/矿场手甲·壹型.webp"
-  },
-  {
-    "name": "矿场护腕",
-    "rarity": 2,
-    "tags": [
-      "防御力+16",
-      "敏捷+28",
-      "力量+18",
-      "生命值+15.0%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=417",
-    "image": "https://wsryhc.top/endfield/equip_images/矿场护腕.webp"
-  },
-  {
-    "name": "矿场护手",
-    "rarity": 2,
-    "tags": [
-      "防御力+16",
-      "意志+28",
-      "智识+18",
-      "生命值+15.0%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=416",
-    "image": "https://wsryhc.top/endfield/equip_images/矿场护手.webp"
-  },
-  {
-    "name": "矿场手甲",
-    "rarity": 2,
-    "tags": [
-      "防御力+12",
-      "力量+20",
-      "敏捷+13",
-      "生命值+11.0%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=415",
-    "image": "https://wsryhc.top/endfield/equip_images/矿场手甲.webp"
-  },
-  {
-    "name": "矿场手套",
-    "rarity": 2,
-    "tags": [
-      "防御力+12",
-      "智识+20",
-      "意志+13",
-      "生命值+11.0%"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=414",
-    "image": "https://wsryhc.top/endfield/equip_images/矿场手套.webp"
-  },
-  {
-    "name": "简易手甲",
-    "rarity": 1,
-    "tags": [
-      "防御力+6",
-      "力量+11",
-      "敏捷+7",
-      "生命值+77"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=413",
-    "image": "https://wsryhc.top/endfield/equip_images/简易手甲.webp"
-  },
-  {
-    "name": "简易护手",
-    "rarity": 1,
-    "tags": [
-      "防御力+6",
-      "智识+11",
-      "意志+7",
-      "生命值+77"
-    ],
-    "type": "equipment",
-    "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=139",
-    "image": "https://wsryhc.top/endfield/equip_images/简易护手.webp"
-  }
-]
+  "updateTime": "2026-03-16",
+  "remark": "新添加了30个装备",
+  "items": [
+    {
+      "name": "拓荒纤维手套",
+      "rarity": 5,
+      "tags": [
+        "防御力+42",
+        "意志+65",
+        "力量+43",
+        "所有技能伤害加成+23.0%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=1236",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/拓荒纤维手套.webp"
+    },
+    {
+      "name": "拓荒分析仪",
+      "rarity": 5,
+      "tags": [
+        "防御力+21",
+        "力量+41",
+        "终结技伤害加成+51.8%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=1235",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/拓荒分析仪.webp"
+    },
+    {
+      "name": "拓荒供氧栓",
+      "rarity": 5,
+      "tags": [
+        "防御力+21",
+        "意志+41",
+        "物理伤害加成+23.0%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=1234",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/拓荒供氧栓.webp"
+    },
+    {
+      "name": "50式应龙雷达·壹型",
+      "rarity": 5,
+      "tags": [
+        "防御力+21",
+        "敏捷+32",
+        "力量+21",
+        "终结技伤害加成+51.8%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=1219",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/50式应龙雷达·壹型.webp"
+    },
+    {
+      "name": "50式应龙雷达·贰型",
+      "rarity": 5,
+      "tags": [
+        "防御力+21",
+        "敏捷+32",
+        "智识+21",
+        "连携技伤害加成+41.4%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=1218",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/50式应龙雷达·贰型.webp"
+    },
+    {
+      "name": "M.I.警用瞄具·壹型",
+      "rarity": 5,
+      "tags": [
+        "防御力+21",
+        "敏捷+32",
+        "智识+21",
+        "暴击率+10.4%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=1217",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/M.I.警用瞄具·壹型.webp"
+    },
+    {
+      "name": "50式应龙重甲·壹型",
+      "rarity": 5,
+      "tags": [
+        "防御力+56",
+        "敏捷+87",
+        "力量+58",
+        "终结技充能效率+12.3%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=1216",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/50式应龙重甲·壹型.webp"
+    },
+    {
+      "name": "50式应龙重甲·贰型",
+      "rarity": 5,
+      "tags": [
+        "防御力+56",
+        "敏捷+87",
+        "智识+58",
+        "连携技伤害加成+20.7%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=1215",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/50式应龙重甲·贰型.webp"
+    },
+    {
+      "name": "拓荒护服",
+      "rarity": 5,
+      "tags": [
+        "防御力+56",
+        "智识+87",
+        "敏捷+58",
+        "终结技充能效率+12.3%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=1213",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/拓荒护服.webp"
+    },
+    {
+      "name": "M.I.警用护甲·壹型",
+      "rarity": 5,
+      "tags": [
+        "防御力+56",
+        "敏捷+87",
+        "智识+58",
+        "终结技充能效率+12.3%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=1212",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/M.I.警用护甲·壹型.webp"
+    },
+    {
+      "name": "M.I.警用手套·壹型",
+      "rarity": 5,
+      "tags": [
+        "防御力+42",
+        "敏捷+65",
+        "智识+43",
+        "终结技伤害加成+43.1%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=1210",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/M.I.警用手套·壹型.webp"
+    },
+    {
+      "name": "碾骨重护甲·贰型",
+      "rarity": 5,
+      "tags": [
+        "防御力+56",
+        "敏捷+87",
+        "力量+58",
+        "寒冷和电磁伤害加成+11.5%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=1205",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/碾骨重护甲·贰型.webp"
+    },
+    {
+      "name": "碾骨腕带",
+      "rarity": 5,
+      "tags": [
+        "防御力+42",
+        "力量+65",
+        "敏捷+43",
+        "灼热和自然伤害加成+19.2%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=1204",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/碾骨腕带.webp"
+    },
+    {
+      "name": "碾骨腕带·壹型",
+      "rarity": 5,
+      "tags": [
+        "防御力+42",
+        "敏捷+65",
+        "力量+43",
+        "寒冷和电磁伤害加成+19.2%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=1203",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/碾骨腕带·壹型.webp"
+    },
+    {
+      "name": "碾骨面具·贰型",
+      "rarity": 5,
+      "tags": [
+        "防御力+21",
+        "敏捷+32",
+        "力量+21",
+        "战技伤害加成+41.4%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=1202",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/碾骨面具·贰型.webp"
+    },
+    {
+      "name": "纾难重甲",
+      "rarity": 5,
+      "tags": [
+        "防御力+56",
+        "敏捷+115",
+        "普通攻击伤害加成+14.4%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=1194",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/纾难重甲.webp"
+    },
+    {
+      "name": "纾难护甲",
+      "rarity": 5,
+      "tags": [
+        "防御力+56",
+        "智识+115",
+        "终结技充能效率+12.9%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=1193",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/纾难护甲.webp"
+    },
+    {
+      "name": "纾难护手",
+      "rarity": 5,
+      "tags": [
+        "防御力+42",
+        "敏捷+86",
+        "终结技伤害加成+45.0%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=1192",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/纾难护手.webp"
+    },
+    {
+      "name": "纾难手套",
+      "rarity": 5,
+      "tags": [
+        "防御力+42",
+        "力量+86",
+        "所有技能伤害加成+24.0%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=1191",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/纾难手套.webp"
+    },
+    {
+      "name": "点剑轻装甲",
+      "rarity": 5,
+      "tags": [
+        "防御力+56",
+        "力量+87",
+        "意志+58",
+        "终结技充能效率+12.3%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=1189",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/点剑轻装甲.webp"
+    },
+    {
+      "name": "点剑定位信标",
+      "rarity": 5,
+      "tags": [
+        "防御力+21",
+        "力量+41",
+        "源石技艺强度+41"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=1188",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/点剑定位信标.webp"
+    },
+    {
+      "name": "点剑微型滤芯",
+      "rarity": 5,
+      "tags": [
+        "防御力+21",
+        "力量+32",
+        "意志+21",
+        "物理伤害加成+23.0%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=1187",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/点剑微型滤芯.webp"
+    },
+    {
+      "name": "生物辅助接驳器·贰型",
+      "rarity": 5,
+      "tags": [
+        "防御力+21",
+        "力量+41",
+        "生命值+41.4%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=1186",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/生物辅助接驳器·贰型.webp"
+    },
+    {
+      "name": "轻超域轻护手",
+      "rarity": 5,
+      "tags": [
+        "防御力+42",
+        "意志+65",
+        "敏捷+43",
+        "所有技能伤害加成+23.0%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=1185",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/轻超域轻护手.webp"
+    },
+    {
+      "name": "轻超域稳定盘·壹型",
+      "rarity": 5,
+      "tags": [
+        "防御力+21",
+        "敏捷+32",
+        "力量+21",
+        "物理伤害加成+23.0%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=1184",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/轻超域稳定盘·壹型.webp"
+    },
+    {
+      "name": "轻超域腕表",
+      "rarity": 5,
+      "tags": [
+        "防御力+21",
+        "力量+32",
+        "敏捷+21",
+        "战技伤害加成+41.4%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=1183",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/轻超域腕表.webp"
+    },
+    {
+      "name": "脉冲式探针",
+      "rarity": 5,
+      "tags": [
+        "防御力+21",
+        "智识+32",
+        "敏捷+21",
+        "源石技艺强度+41"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=1182",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/脉冲式探针.webp"
+    },
+    {
+      "name": "脉冲式侵入核",
+      "rarity": 5,
+      "tags": [
+        "防御力+21",
+        "意志+41",
+        "终结技伤害加成+51.8%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=1181",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/脉冲式侵入核.webp"
+    },
+    {
+      "name": "动火用辅助骨骼",
+      "rarity": 5,
+      "tags": [
+        "防御力+56",
+        "智识+87",
+        "意志+58",
+        "灼热和自然伤害加成+11.5%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=1180",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/动火用辅助骨骼.webp"
+    },
+    {
+      "name": "动火用手套",
+      "rarity": 5,
+      "tags": [
+        "防御力+42",
+        "力量+65",
+        "意志+43",
+        "源石技艺强度+34"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=1179",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/动火用手套.webp"
+    },
+    {
+      "name": "长息辅助臂",
+      "rarity": 5,
+      "tags": [
+        "防御力+21",
+        "意志+32",
+        "智识+21",
+        "终结技充能效率+24.6%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=1002",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/长息辅助臂.webp"
+    },
+    {
+      "name": "长息护手·壹型",
+      "rarity": 5,
+      "tags": [
+        "防御力+42",
+        "智识+65",
+        "意志+43",
+        "终结技充能效率+20.5%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=1001",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/长息护手·壹型.webp"
+    },
+    {
+      "name": "长息护手",
+      "rarity": 5,
+      "tags": [
+        "防御力+42",
+        "智识+65",
+        "力量+43",
+        "终结技充能效率+20.5%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=1000",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/长息护手.webp"
+    },
+    {
+      "name": "长息蓄电核",
+      "rarity": 5,
+      "tags": [
+        "防御力+21",
+        "智识+32",
+        "力量+21",
+        "终结技充能效率+24.6%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=999",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/长息蓄电核.webp"
+    },
+    {
+      "name": "长息蓄电核·壹型",
+      "rarity": 5,
+      "tags": [
+        "防御力+21",
+        "智识+32",
+        "意志+21",
+        "治疗效率加成+20.7%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=998",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/长息蓄电核·壹型.webp"
+    },
+    {
+      "name": "长息装甲",
+      "rarity": 5,
+      "tags": [
+        "防御力+56",
+        "意志+87",
+        "智识+58",
+        "源石技艺强度+20"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=997",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/长息装甲.webp"
+    },
+    {
+      "name": "浊流切割炬",
+      "rarity": 5,
+      "tags": [
+        "防御力+21",
+        "智识+32",
+        "力量+21",
+        "普通攻击伤害加成+27.6%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=996",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/浊流切割炬.webp"
+    },
+    {
+      "name": "悬河供氧栓",
+      "rarity": 5,
+      "tags": [
+        "防御力+21",
+        "力量+32",
+        "意志+21",
+        "寒冷和电磁伤害加成+23.0%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=995",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/悬河供氧栓.webp"
+    },
+    {
+      "name": "潮涌手甲",
+      "rarity": 5,
+      "tags": [
+        "防御力+42",
+        "力量+65",
+        "意志+43",
+        "寒冷和电磁伤害加成+19.2%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=994",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/潮涌手甲.webp"
+    },
+    {
+      "name": "落潮轻甲",
+      "rarity": 5,
+      "tags": [
+        "防御力+56",
+        "智识+87",
+        "力量+58",
+        "终结技充能效率+12.3%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=993",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/落潮轻甲.webp"
+    },
+    {
+      "name": "50式应龙短刃·壹型",
+      "rarity": 5,
+      "tags": [
+        "防御力+21",
+        "智识+32",
+        "力量+21",
+        "所有技能伤害加成+27.6%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=992",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/50式应龙短刃·壹型.webp"
+    },
+    {
+      "name": "50式应龙短刃",
+      "rarity": 5,
+      "tags": [
+        "防御力+21",
+        "意志+32",
+        "敏捷+21",
+        "连携技伤害加成+41.4%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=991",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/50式应龙短刃.webp"
+    },
+    {
+      "name": "50式应龙雷达",
+      "rarity": 5,
+      "tags": [
+        "防御力+21",
+        "力量+32",
+        "意志+21",
+        "物理伤害加成+23.0%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=990",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/50式应龙雷达.webp"
+    },
+    {
+      "name": "50式应龙护手·壹型",
+      "rarity": 5,
+      "tags": [
+        "防御力+42",
+        "意志+65",
+        "敏捷+43",
+        "连携技伤害加成+34.5%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=989",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/50式应龙护手·壹型.webp"
+    },
+    {
+      "name": "50式应龙护手",
+      "rarity": 5,
+      "tags": [
+        "防御力+42",
+        "敏捷+65",
+        "智识+43",
+        "连携技伤害加成+34.5%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=988",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/50式应龙护手.webp"
+    },
+    {
+      "name": "50式应龙轻甲",
+      "rarity": 5,
+      "tags": [
+        "防御力+56",
+        "意志+87",
+        "力量+58",
+        "所有技能伤害加成+13.8%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=987",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/50式应龙轻甲.webp"
+    },
+    {
+      "name": "50式应龙重甲",
+      "rarity": 5,
+      "tags": [
+        "防御力+56",
+        "力量+87",
+        "意志+58",
+        "物理伤害加成+11.5%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=986",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/50式应龙重甲.webp"
+    },
+    {
+      "name": "M.I.警用刺刃·壹型",
+      "rarity": 5,
+      "tags": [
+        "防御力+21",
+        "意志+32",
+        "敏捷+21",
+        "战技伤害加成+41.4%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=977",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/M.I.警用刺刃·壹型.webp"
+    },
+    {
+      "name": "M.I.警用刺刃",
+      "rarity": 5,
+      "tags": [
+        "防御力+21",
+        "意志+32",
+        "智识+21",
+        "灼热和自然伤害加成+23.0%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=976",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/M.I.警用刺刃.webp"
+    },
+    {
+      "name": "M.I.警用工具组",
+      "rarity": 5,
+      "tags": [
+        "防御力+21",
+        "智识+32",
+        "敏捷+21",
+        "暴击率+10.4%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=975",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/M.I.警用工具组.webp"
+    },
+    {
+      "name": "M.I.警用瞄具",
+      "rarity": 5,
+      "tags": [
+        "防御力+21",
+        "敏捷+32",
+        "力量+21",
+        "战技伤害加成+41.4%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=974",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/M.I.警用瞄具.webp"
+    },
+    {
+      "name": "M.I.警用臂环",
+      "rarity": 5,
+      "tags": [
+        "防御力+21",
+        "力量+32",
+        "意志+21",
+        "寒冷和电磁伤害加成+23.0%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=973",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/M.I.警用臂环.webp"
+    },
+    {
+      "name": "M.I.警用手环·壹型",
+      "rarity": 5,
+      "tags": [
+        "防御力+42",
+        "智识+65",
+        "意志+43",
+        "暴击率+8.6%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=972",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/M.I.警用手环·壹型.webp"
+    },
+    {
+      "name": "M.I.警用手环",
+      "rarity": 5,
+      "tags": [
+        "防御力+42",
+        "智识+65",
+        "敏捷+43",
+        "普通攻击伤害加成+23.0%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=971",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/M.I.警用手环.webp"
+    },
+    {
+      "name": "M.I.警用手套",
+      "rarity": 5,
+      "tags": [
+        "防御力+42",
+        "敏捷+65",
+        "力量+43",
+        "战技伤害加成+34.5%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=970",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/M.I.警用手套.webp"
+    },
+    {
+      "name": "M.I.警用罩衣·贰型",
+      "rarity": 5,
+      "tags": [
+        "防御力+56",
+        "意志+87",
+        "敏捷+58",
+        "战技伤害加成+20.7%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=968",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/M.I.警用罩衣·贰型.webp"
+    },
+    {
+      "name": "M.I.警用罩衣·壹型",
+      "rarity": 5,
+      "tags": [
+        "防御力+56",
+        "智识+87",
+        "意志+58",
+        "暴击率+5.2%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=967",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/M.I.警用罩衣·壹型.webp"
+    },
+    {
+      "name": "M.I.警用罩衣",
+      "rarity": 5,
+      "tags": [
+        "防御力+56",
+        "智识+87",
+        "敏捷+58",
+        "普通攻击伤害加成+13.8%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=966",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/M.I.警用罩衣.webp"
+    },
+    {
+      "name": "M.I.警用护甲",
+      "rarity": 5,
+      "tags": [
+        "防御力+56",
+        "敏捷+87",
+        "力量+58",
+        "源石技艺强度+20"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=965",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/M.I.警用护甲.webp"
+    },
+    {
+      "name": "动火用电力匣",
+      "rarity": 5,
+      "tags": [
+        "防御力+21",
+        "意志+32",
+        "智识+21",
+        "源石技艺强度+41"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=964",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/动火用电力匣.webp"
+    },
+    {
+      "name": "动火用测温镜",
+      "rarity": 5,
+      "tags": [
+        "防御力+21",
+        "智识+41",
+        "战技伤害加成+41.4%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=963",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/动火用测温镜.webp"
+    },
+    {
+      "name": "动火用储能匣",
+      "rarity": 5,
+      "tags": [
+        "防御力+21",
+        "力量+32",
+        "敏捷+21",
+        "源石技艺强度+41"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=962",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/动火用储能匣.webp"
+    },
+    {
+      "name": "动火用手甲·壹型",
+      "rarity": 5,
+      "tags": [
+        "防御力+42",
+        "意志+65",
+        "智识+43",
+        "灼热和自然伤害加成+19.2%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=961",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/动火用手甲·壹型.webp"
+    },
+    {
+      "name": "动火用手甲",
+      "rarity": 5,
+      "tags": [
+        "防御力+42",
+        "智识65",
+        "力量+43",
+        "灼热和自然伤害加成+19.2%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=960",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/动火用手甲.webp"
+    },
+    {
+      "name": "动火用外骨骼",
+      "rarity": 5,
+      "tags": [
+        "防御力+56",
+        "力量+87",
+        "敏捷+58",
+        "灼热和自然伤害加成+11.5%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=959",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/动火用外骨骼.webp"
+    },
+    {
+      "name": "轻超域稳定盘",
+      "rarity": 5,
+      "tags": [
+        "防御力+21",
+        "敏捷+32",
+        "力量+21",
+        "源石技艺强度+41"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=958",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/轻超域稳定盘.webp"
+    },
+    {
+      "name": "轻超域分析环",
+      "rarity": 5,
+      "tags": [
+        "防御力+21",
+        "力量+32",
+        "意志+21",
+        "物理伤害加成+23.0%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=957",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/轻超域分析环.webp"
+    },
+    {
+      "name": "轻超域护手",
+      "rarity": 5,
+      "tags": [
+        "防御力+42",
+        "敏捷+65",
+        "力量+43",
+        "源石技艺强度+34"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=956",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/轻超域护手.webp"
+    },
+    {
+      "name": "轻超域护板",
+      "rarity": 5,
+      "tags": [
+        "防御力+56",
+        "力量+87",
+        "意志+58",
+        "对失衡目标伤害加成+20.7%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=955",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/轻超域护板.webp"
+    },
+    {
+      "name": "拓荒增量供氧栓",
+      "rarity": 5,
+      "tags": [
+        "防御力+21",
+        "敏捷+32",
+        "智识+21",
+        "副能力+20.7%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=954",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/拓荒增量供氧栓.webp"
+    },
+    {
+      "name": "拓荒通信器·壹型",
+      "rarity": 5,
+      "tags": [
+        "防御力+21",
+        "力量+32",
+        "智识+21",
+        "寒冷和电磁伤害加成+23.0%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=953",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/拓荒通信器·壹型.webp"
+    },
+    {
+      "name": "拓荒通信器",
+      "rarity": 5,
+      "tags": [
+        "防御力+21",
+        "力量+32",
+        "敏捷+21",
+        "连携技伤害加成+41.4%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=952",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/拓荒通信器.webp"
+    },
+    {
+      "name": "拓荒耐蚀手套",
+      "rarity": 5,
+      "tags": [
+        "防御力+42",
+        "敏捷+65",
+        "智识+43",
+        "战技伤害加成+34.5%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=951",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/拓荒耐蚀手套.webp"
+    },
+    {
+      "name": "拓荒护甲·叄型",
+      "rarity": 5,
+      "tags": [
+        "防御力+56",
+        "敏捷+87",
+        "智识+58",
+        "副能力+10.4%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=950",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/拓荒护甲·叄型.webp"
+    },
+    {
+      "name": "拓荒护甲·贰型",
+      "rarity": 5,
+      "tags": [
+        "防御力+56",
+        "敏捷+87",
+        "智识+58",
+        "战技伤害加成+20.7%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=949",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/拓荒护甲·贰型.webp"
+    },
+    {
+      "name": "拓荒护甲·壹型",
+      "rarity": 5,
+      "tags": [
+        "防御力+56",
+        "力量+87",
+        "敏捷+58",
+        "战技伤害加成+20.7%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=948",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/拓荒护甲·壹型.webp"
+    },
+    {
+      "name": "拓荒护甲",
+      "rarity": 5,
+      "tags": [
+        "防御力+56",
+        "力量+87",
+        "智识+58",
+        "终结技伤害加成+25.9%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=947",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/拓荒护甲.webp"
+    },
+    {
+      "name": "脉冲式校准器",
+      "rarity": 5,
+      "tags": [
+        "防御力+21",
+        "智识+41",
+        "源石技艺强度+41"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=946",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/脉冲式校准器.webp"
+    },
+    {
+      "name": "脉冲式手套",
+      "rarity": 5,
+      "tags": [
+        "防御力+42",
+        "意志+65",
+        "智识+43",
+        "寒冷和电磁伤害加成+19.2%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=945",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/脉冲式手套.webp"
+    },
+    {
+      "name": "脉冲式干扰服",
+      "rarity": 5,
+      "tags": [
+        "防御力+56",
+        "智识+87",
+        "意志+58",
+        "源石技艺强度+20"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=944",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/脉冲式干扰服.webp"
+    },
+    {
+      "name": "碾骨小雕像·壹型",
+      "rarity": 5,
+      "tags": [
+        "防御力+21",
+        "意志+32",
+        "智识+21",
+        "连携技伤害加成+41.4%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=943",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/碾骨小雕像·壹型.webp"
+    },
+    {
+      "name": "碾骨小雕像",
+      "rarity": 5,
+      "tags": [
+        "防御力+21",
+        "意志+32",
+        "敏捷+21",
+        "战技伤害加成+41.4%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=942",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/碾骨小雕像.webp"
+    },
+    {
+      "name": "碾骨面具·壹型",
+      "rarity": 5,
+      "tags": [
+        "防御力+21",
+        "敏捷+32",
+        "力量+21",
+        "暴击率+10.4%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=941",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/碾骨面具·壹型.webp"
+    },
+    {
+      "name": "碾骨面具",
+      "rarity": 5,
+      "tags": [
+        "防御力+21",
+        "敏捷+32",
+        "力量+21",
+        "对失衡目标伤害加成+41.4%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=940",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/碾骨面具.webp"
+    },
+    {
+      "name": "碾骨披巾·壹型",
+      "rarity": 5,
+      "tags": [
+        "防御力+56",
+        "意志+87",
+        "敏捷+58",
+        "终结技充能效率+12.3%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=939",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/碾骨披巾·壹型.webp"
+    },
+    {
+      "name": "碾骨披巾",
+      "rarity": 5,
+      "tags": [
+        "防御力+56",
+        "意志+87",
+        "力量+58",
+        "连携技伤害加成+20.7%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=938",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/碾骨披巾.webp"
+    },
+    {
+      "name": "碾骨重护甲·壹型",
+      "rarity": 5,
+      "tags": [
+        "防御力+56",
+        "敏捷+87",
+        "力量+58",
+        "连携技伤害加成+20.7%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=937",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/碾骨重护甲·壹型.webp"
+    },
+    {
+      "name": "碾骨重护甲",
+      "rarity": 5,
+      "tags": [
+        "防御力+56",
+        "敏捷+87",
+        "智识+58",
+        "终结技充能效率+12.3%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=936",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/碾骨重护甲.webp"
+    },
+    {
+      "name": "生物辅助护盾针",
+      "rarity": 5,
+      "tags": [
+        "防御力+21",
+        "意志+41",
+        "治疗效率加成+20.7%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=891",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/生物辅助护盾针.webp"
+    },
+    {
+      "name": "生物辅助护板",
+      "rarity": 5,
+      "tags": [
+        "防御力+21",
+        "意志+32",
+        "智识+21",
+        "主能力+20.7%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=890",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/生物辅助护板.webp"
+    },
+    {
+      "name": "生物辅助接驳器·壹型",
+      "rarity": 5,
+      "tags": [
+        "防御力+21",
+        "力量+32",
+        "意志+21",
+        "生命值+41.4%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=889",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/生物辅助接驳器·壹型.webp"
+    },
+    {
+      "name": "生物辅助接驳器",
+      "rarity": 5,
+      "tags": [
+        "防御力+21",
+        "力量+32",
+        "意志+21",
+        "全伤害减免17.2%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=888",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/生物辅助接驳器.webp"
+    },
+    {
+      "name": "生物辅助手甲",
+      "rarity": 5,
+      "tags": [
+        "防御力+42",
+        "意志+65",
+        "力量+43",
+        "治疗效率加成+17.3%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=887",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/生物辅助手甲.webp"
+    },
+    {
+      "name": "生物辅助臂甲",
+      "rarity": 5,
+      "tags": [
+        "防御力+42",
+        "力量+65",
+        "意志+43",
+        "终结技充能效率+20.5%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=886",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/生物辅助臂甲.webp"
+    },
+    {
+      "name": "生物辅助胸甲",
+      "rarity": 5,
+      "tags": [
+        "防御力+56",
+        "意志+87",
+        "智识+58",
+        "治疗效率加成+10.4%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=885",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/生物辅助胸甲.webp"
+    },
+    {
+      "name": "生物辅助重甲",
+      "rarity": 5,
+      "tags": [
+        "防御力+56",
+        "力量+87",
+        "意志+58",
+        "治疗效率加成+10.4%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=884",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/生物辅助重甲.webp"
+    },
+    {
+      "name": "点剑火石",
+      "rarity": 5,
+      "tags": [
+        "防御力+21",
+        "敏捷+32",
+        "力量+21",
+        "物理伤害加成+23.0%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=883",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/点剑火石.webp"
+    },
+    {
+      "name": "点剑战术手甲",
+      "rarity": 5,
+      "tags": [
+        "防御力+42",
+        "敏捷+65",
+        "力量+43",
+        "终结技伤害加成+43.1%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=882",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/点剑战术手甲.webp"
+    },
+    {
+      "name": "点剑战术手套",
+      "rarity": 5,
+      "tags": [
+        "防御力+42",
+        "力量+65",
+        "意志+43",
+        "物理伤害加成+19.2%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=881",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/点剑战术手套.webp"
+    },
+    {
+      "name": "点剑重装甲",
+      "rarity": 5,
+      "tags": [
+        "防御力+56",
+        "敏捷+87",
+        "力量+58",
+        "源石技艺强度+20"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=880",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/点剑重装甲.webp"
+    },
+    {
+      "name": "天灾防护滤芯",
+      "rarity": 4,
+      "tags": [
+        "防御力+15",
+        "意志+23",
+        "智识+15",
+        "源石技艺强度+29"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=879",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/天灾防护滤芯.webp"
+    },
+    {
+      "name": "天灾防护净芯·壹型",
+      "rarity": 4,
+      "tags": [
+        "防御力+15",
+        "力量+23",
+        "意志+15",
+        "副能力+14.7%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=878",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/天灾防护净芯·壹型.webp"
+    },
+    {
+      "name": "天灾防护净芯",
+      "rarity": 4,
+      "tags": [
+        "防御力+15",
+        "力量+23",
+        "智识+15",
+        "终结技伤害加成+36.8%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=877",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/天灾防护净芯.webp"
+    },
+    {
+      "name": "天灾防护手套",
+      "rarity": 4,
+      "tags": [
+        "防御力+30",
+        "意志+46",
+        "智识+30",
+        "源石技艺强度+24"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=876",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/天灾防护手套.webp"
+    },
+    {
+      "name": "天灾防护重甲·壹型",
+      "rarity": 4,
+      "tags": [
+        "防御力+40",
+        "力量+61",
+        "意志+41",
+        "终结技充能效率+8.8%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=875",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/天灾防护重甲·壹型.webp"
+    },
+    {
+      "name": "天灾防护重甲",
+      "rarity": 4,
+      "tags": [
+        "防御力+40",
+        "力量+61",
+        "智识+41",
+        "终结技伤害加成+18.4%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=874",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/天灾防护重甲.webp"
+    },
+    {
+      "name": "阿伯莉传感芯片·壹型",
+      "rarity": 4,
+      "tags": [
+        "防御力+15",
+        "意志+23",
+        "智识+15",
+        "战技伤害加成+29.4%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=857",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/阿伯莉传感芯片·壹型.webp"
+    },
+    {
+      "name": "阿伯莉传感芯片",
+      "rarity": 4,
+      "tags": [
+        "防御力+15",
+        "意志+23",
+        "敏捷+15",
+        "战技伤害加成+29.4%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=856",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/阿伯莉传感芯片.webp"
+    },
+    {
+      "name": "阿伯莉照明器",
+      "rarity": 4,
+      "tags": [
+        "防御力+15",
+        "智识+23",
+        "力量+15",
+        "终结技充能效率+17.5%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=855",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/阿伯莉照明器.webp"
+    },
+    {
+      "name": "阿伯莉侦听芯片·壹型",
+      "rarity": 4,
+      "tags": [
+        "防御力+15",
+        "敏捷+23",
+        "力量+15",
+        "连携技伤害加成+29.4%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=854",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/阿伯莉侦听芯片·壹型.webp"
+    },
+    {
+      "name": "阿伯莉紫光灯",
+      "rarity": 4,
+      "tags": [
+        "防御力+15",
+        "力量+23",
+        "敏捷+15",
+        "所有技能伤害加成+19.6%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=853",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/阿伯莉紫光灯.webp"
+    },
+    {
+      "name": "阿伯莉侦听芯片",
+      "rarity": 4,
+      "tags": [
+        "防御力+15",
+        "力量+23",
+        "意志+15",
+        "对失衡目标伤害加成+42.0%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=852",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/阿伯莉侦听芯片.webp"
+    },
+    {
+      "name": "阿伯莉手甲",
+      "rarity": 4,
+      "tags": [
+        "防御力+30",
+        "力量+46",
+        "意志+30",
+        "对失衡目标伤害加成+24.5%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=851",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/阿伯莉手甲.webp"
+    },
+    {
+      "name": "阿伯莉轻甲·壹型",
+      "rarity": 4,
+      "tags": [
+        "防御力+40",
+        "意志+61",
+        "敏捷+41",
+        "战技伤害加成+14.7%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=850",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/阿伯莉轻甲·壹型.webp"
+    },
+    {
+      "name": "阿伯莉轻甲",
+      "rarity": 4,
+      "tags": [
+        "防御力+40",
+        "智识+61",
+        "力量+41",
+        "终结技充能效率+8.8%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=849",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/阿伯莉轻甲.webp"
+    },
+    {
+      "name": "阿伯莉重甲·壹型",
+      "rarity": 4,
+      "tags": [
+        "防御力+40",
+        "敏捷+61",
+        "力量+41",
+        "连携技伤害加成+14.7%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=848",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/阿伯莉重甲·壹型.webp"
+    },
+    {
+      "name": "阿伯莉重甲",
+      "rarity": 4,
+      "tags": [
+        "防御力+40",
+        "力量+61",
+        "敏捷+41",
+        "所有技能伤害加成+9.8%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=847",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/阿伯莉重甲.webp"
+    },
+    {
+      "name": "蚀电防护电池·壹型",
+      "rarity": 4,
+      "tags": [
+        "防御力+15",
+        "意志+23",
+        "敏捷+15",
+        "治疗效率加成+14.7%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=846",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/蚀电防护电池·壹型.webp"
+    },
+    {
+      "name": "蚀电防护扳手·壹型",
+      "rarity": 4,
+      "tags": [
+        "防御力+15",
+        "意志+23",
+        "智识+15",
+        "攻击力+14.7%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=845",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/蚀电防护扳手·壹型.webp"
+    },
+    {
+      "name": "蚀电防护手套·壹型",
+      "rarity": 4,
+      "tags": [
+        "防御力+30",
+        "意志+46",
+        "敏捷+30",
+        "攻击力+12.3%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=844",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/蚀电防护手套·壹型.webp"
+    },
+    {
+      "name": "蚀电防护背心·壹型",
+      "rarity": 4,
+      "tags": [
+        "防御力+40",
+        "意志+61",
+        "智识+41",
+        "生命值+14.7%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=843",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/蚀电防护背心·壹型.webp"
+    },
+    {
+      "name": "蚀电防护电池",
+      "rarity": 3,
+      "tags": [
+        "防御力+10",
+        "意志+21",
+        "治疗效率加成+10.5%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=842",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/蚀电防护电池.webp"
+    },
+    {
+      "name": "蚀电防护扳手",
+      "rarity": 3,
+      "tags": [
+        "防御力+10",
+        "意志+21",
+        "攻击力+10.5%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=841",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/蚀电防护扳手.webp"
+    },
+    {
+      "name": "蚀电防护手套",
+      "rarity": 3,
+      "tags": [
+        "防御力+21",
+        "意志+33",
+        "智识+22",
+        "治疗效率加成+8.8%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=840",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/蚀电防护手套.webp"
+    },
+    {
+      "name": "蚀电防护背心",
+      "rarity": 3,
+      "tags": [
+        "防御力+28",
+        "意志+44",
+        "敏捷+29",
+        "生命值+10.5%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=839",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/蚀电防护背心.webp"
+    },
+    {
+      "name": "蚀电屏蔽电池·壹型",
+      "rarity": 4,
+      "tags": [
+        "防御力+15",
+        "智识+29",
+        "终结技充能效率+17.5%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=838",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/蚀电屏蔽电池·壹型.webp"
+    },
+    {
+      "name": "蚀电屏蔽扳手·贰型",
+      "rarity": 4,
+      "tags": [
+        "防御力+15",
+        "智识+23",
+        "敏捷+15",
+        "攻击力+14.7%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=837",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/蚀电屏蔽扳手·贰型.webp"
+    },
+    {
+      "name": "蚀电屏蔽手套·壹型",
+      "rarity": 4,
+      "tags": [
+        "防御力+30",
+        "智识+46",
+        "力量+30",
+        "攻击力+12.3%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=836",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/蚀电屏蔽手套·壹型.webp"
+    },
+    {
+      "name": "蚀电屏蔽背心·壹型",
+      "rarity": 4,
+      "tags": [
+        "防御力+40",
+        "智识+61",
+        "敏捷+41",
+        "普通攻击伤害加成+9.8%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=835",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/蚀电屏蔽背心·壹型.webp"
+    },
+    {
+      "name": "蚀电屏蔽背心·贰型",
+      "rarity": 4,
+      "tags": [
+        "防御力+40",
+        "智识+61",
+        "意志+41",
+        "生命值+14.7%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=834",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/蚀电屏蔽背心·贰型.webp"
+    },
+    {
+      "name": "蚀电屏蔽电池",
+      "rarity": 3,
+      "tags": [
+        "防御力+10",
+        "智识+21",
+        "暴击率+5.3%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=833",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/蚀电屏蔽电池.webp"
+    },
+    {
+      "name": "蚀电屏蔽扳手·壹型",
+      "rarity": 3,
+      "tags": [
+        "防御力+10",
+        "智识+21",
+        "寒冷和电磁伤害加成+11.7%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=832",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/蚀电屏蔽扳手·壹型.webp"
+    },
+    {
+      "name": "蚀电屏蔽扳手",
+      "rarity": 3,
+      "tags": [
+        "防御力+10",
+        "智识+21",
+        "攻击力+10.5%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=831",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/蚀电屏蔽扳手.webp"
+    },
+    {
+      "name": "蚀电屏蔽手套",
+      "rarity": 3,
+      "tags": [
+        "防御力+21",
+        "智识+33",
+        "意志+22",
+        "法术伤害加成+9.2%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=830",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/蚀电屏蔽手套.webp"
+    },
+    {
+      "name": "蚀电屏蔽背心",
+      "rarity": 3,
+      "tags": [
+        "防御力+28",
+        "智识+44",
+        "力量+29",
+        "攻击力+16"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=829",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/蚀电屏蔽背心.webp"
+    },
+    {
+      "name": "巡行信使陀螺·壹型",
+      "rarity": 4,
+      "tags": [
+        "防御力+15",
+        "敏捷+23",
+        "智识+15",
+        "攻击力+14.7%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=828",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/巡行信使陀螺·壹型.webp"
+    },
+    {
+      "name": "巡行信使手电·壹型",
+      "rarity": 4,
+      "tags": [
+        "防御力+15",
+        "敏捷+23",
+        "力量+15",
+        "连携技伤害加成+29.4%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=827",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/巡行信使手电·壹型.webp"
+    },
+    {
+      "name": "巡行信使手电·贰型",
+      "rarity": 4,
+      "tags": [
+        "防御力+15",
+        "敏捷+23",
+        "力量+15",
+        "终结技伤害加成+36.8%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=826",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/巡行信使手电·贰型.webp"
+    },
+    {
+      "name": "巡行信使手套·壹型",
+      "rarity": 4,
+      "tags": [
+        "防御力+30",
+        "敏捷+46",
+        "力量+30",
+        "攻击力+12.3%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=825",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/巡行信使手套·壹型.webp"
+    },
+    {
+      "name": "巡行信使夹克·壹型",
+      "rarity": 4,
+      "tags": [
+        "防御力+40",
+        "敏捷+61",
+        "智识+41",
+        "生命值+14.7%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=824",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/巡行信使夹克·壹型.webp"
+    },
+    {
+      "name": "巡行信使陀螺",
+      "rarity": 3,
+      "tags": [
+        "防御力+10",
+        "敏捷+21",
+        "攻击力+10.5%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=823",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/巡行信使陀螺.webp"
+    },
+    {
+      "name": "巡行信使手电",
+      "rarity": 3,
+      "tags": [
+        "防御力+10",
+        "敏捷+21",
+        "连携技伤害加成+21.0%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=822",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/巡行信使手电.webp"
+    },
+    {
+      "name": "巡行信使手套",
+      "rarity": 3,
+      "tags": [
+        "防御力+21",
+        "敏捷+33",
+        "力量+22",
+        "物理伤害加成+9.7%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=821",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/巡行信使手套.webp"
+    },
+    {
+      "name": "巡行信使夹克",
+      "rarity": 3,
+      "tags": [
+        "防御力+28",
+        "敏捷+44",
+        "智识+29",
+        "攻击力+16"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=820",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/巡行信使夹克.webp"
+    },
+    {
+      "name": "重装信使陀螺·壹型",
+      "rarity": 4,
+      "tags": [
+        "防御力+15",
+        "力量+23",
+        "意志+15",
+        "攻击力+14.7%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=787",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/重装信使陀螺·壹型.webp"
+    },
+    {
+      "name": "重装信使手电·壹型",
+      "rarity": 4,
+      "tags": [
+        "防御力+15",
+        "力量+23",
+        "敏捷+15",
+        "暴击率+7.4%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=786",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/重装信使手电·壹型.webp"
+    },
+    {
+      "name": "重装信使手套·贰型",
+      "rarity": 4,
+      "tags": [
+        "防御力+30",
+        "力量+46",
+        "敏捷+30",
+        "连携技伤害加成+24.5%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=785",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/重装信使手套·贰型.webp"
+    },
+    {
+      "name": "重装信使手套·壹型",
+      "rarity": 4,
+      "tags": [
+        "防御力+30",
+        "力量+46",
+        "敏捷+30",
+        "攻击力+12.3%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=784",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/重装信使手套·壹型.webp"
+    },
+    {
+      "name": "重装信使夹克·壹型",
+      "rarity": 4,
+      "tags": [
+        "防御力+40",
+        "力量+61",
+        "意志+41",
+        "生命值+14.7%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=783",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/重装信使夹克·壹型.webp"
+    },
+    {
+      "name": "重装信使陀螺",
+      "rarity": 3,
+      "tags": [
+        "防御力+10",
+        "力量+21",
+        "攻击力+10.5%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=782",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/重装信使陀螺.webp"
+    },
+    {
+      "name": "重装信使手电",
+      "rarity": 3,
+      "tags": [
+        "防御力+10",
+        "力量+21",
+        "生命值+21.0%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=781",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/重装信使手电.webp"
+    },
+    {
+      "name": "重装信使手套",
+      "rarity": 3,
+      "tags": [
+        "防御力+21",
+        "力量+33",
+        "意志+22",
+        "全伤害减免8.0%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=780",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/重装信使手套.webp"
+    },
+    {
+      "name": "重装信使夹克",
+      "rarity": 3,
+      "tags": [
+        "防御力+28",
+        "力量+44",
+        "敏捷+29",
+        "生命值+10.5%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=779",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/重装信使夹克.webp"
+    },
+    {
+      "name": "集成化轻甲",
+      "rarity": 2,
+      "tags": [
+        "防御力+22",
+        "智识+30",
+        "意志+30",
+        "战技伤害加成+8.1%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=778",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/集成化轻甲.webp"
+    },
+    {
+      "name": "集成化战术手套",
+      "rarity": 2,
+      "tags": [
+        "防御力+16",
+        "智识+23",
+        "敏捷+23",
+        "连携技伤害加成+13.5%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=777",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/集成化战术手套.webp"
+    },
+    {
+      "name": "集成化轻甲片",
+      "rarity": 2,
+      "tags": [
+        "防御力+8",
+        "智识+16",
+        "连携技伤害加成+16.2%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=776",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/集成化轻甲片.webp"
+    },
+    {
+      "name": "集成化陶瓷板",
+      "rarity": 2,
+      "tags": [
+        "防御力+8",
+        "意志+16",
+        "战技伤害加成+16.2%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=775",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/集成化陶瓷板.webp"
+    },
+    {
+      "name": "集成化重甲",
+      "rarity": 2,
+      "tags": [
+        "防御力+22",
+        "力量+30",
+        "敏捷+30",
+        "全伤害减免3.9%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=774",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/集成化重甲.webp"
+    },
+    {
+      "name": "集成化手甲",
+      "rarity": 2,
+      "tags": [
+        "防御力+16",
+        "力量+23",
+        "意志+23",
+        "全伤害减免6.3%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=773",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/集成化手甲.webp"
+    },
+    {
+      "name": "纾难识别牌",
+      "rarity": 5,
+      "tags": [
+        "防御力+21",
+        "力量+43",
+        "全伤害减免+17.8%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=714",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/纾难识别牌.webp"
+    },
+    {
+      "name": "纾难识别牌·壹型",
+      "rarity": 5,
+      "tags": [
+        "防御力+21",
+        "敏捷+43",
+        "连携技伤害加成+43.2%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=713",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/纾难识别牌·壹型.webp"
+    },
+    {
+      "name": "纾难印章",
+      "rarity": 5,
+      "tags": [
+        "防御力+21",
+        "智识+43",
+        "终结技充能效率+25.7%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=712",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/纾难印章.webp"
+    },
+    {
+      "name": "纾难印章·壹型",
+      "rarity": 5,
+      "tags": [
+        "防御力+21",
+        "意志+43",
+        "暴击率+10.8%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=711",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/纾难印章·壹型.webp"
+    },
+    {
+      "name": "矿场联络仪·壹型",
+      "rarity": 4,
+      "tags": [
+        "防御力+15",
+        "意志+31",
+        "治疗效率加成+15.6%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=710",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/矿场联络仪·壹型.webp"
+    },
+    {
+      "name": "矿场传动轮·壹型",
+      "rarity": 4,
+      "tags": [
+        "防御力+15",
+        "智识+31",
+        "终结技充能效率+18.6%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=709",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/矿场传动轮·壹型.webp"
+    },
+    {
+      "name": "矿场压缩核·壹型",
+      "rarity": 4,
+      "tags": [
+        "防御力+15",
+        "敏捷+31",
+        "连携技伤害加成+31.2%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=708",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/矿场压缩核·壹型.webp"
+    },
+    {
+      "name": "矿场增压轮·壹型",
+      "rarity": 4,
+      "tags": [
+        "防御力+15",
+        "力量+31",
+        "全伤害减免13.5%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=707",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/矿场增压轮·壹型.webp"
+    },
+    {
+      "name": "矿场联络仪",
+      "rarity": 3,
+      "tags": [
+        "防御力+10",
+        "意志+22",
+        "生命值+22.8%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=706",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/矿场联络仪.webp"
+    },
+    {
+      "name": "矿场压缩核",
+      "rarity": 3,
+      "tags": [
+        "防御力+10",
+        "智识+22",
+        "暴击率+5.7%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=705",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/矿场压缩核.webp"
+    },
+    {
+      "name": "矿场传动轮",
+      "rarity": 3,
+      "tags": [
+        "防御力+10",
+        "敏捷+22",
+        "暴击率+5.7%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=704",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/矿场传动轮.webp"
+    },
+    {
+      "name": "矿场增压轮",
+      "rarity": 3,
+      "tags": [
+        "防御力+10",
+        "力量+22",
+        "连携技伤害加成+22.8%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=703",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/矿场增压轮.webp"
+    },
+    {
+      "name": "集成化合金板",
+      "rarity": 2,
+      "tags": [
+        "防御力+8",
+        "敏捷+16",
+        "全伤害减免7.5%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=635",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/集成化合金板.webp"
+    },
+    {
+      "name": "集成化重甲片",
+      "rarity": 2,
+      "tags": [
+        "防御力+8",
+        "力量+16",
+        "全伤害减免7.5%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=633",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/集成化重甲片.webp"
+    },
+    {
+      "name": "应急压缩核",
+      "rarity": 2,
+      "tags": [
+        "防御力+6",
+        "攻击力+13.2%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=632",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/应急压缩核.webp"
+    },
+    {
+      "name": "应急联络仪",
+      "rarity": 2,
+      "tags": [
+        "防御力+6",
+        "暴击率+6.6%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=631",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/应急联络仪.webp"
+    },
+    {
+      "name": "矿场防护服·壹型",
+      "rarity": 4,
+      "tags": [
+        "防御力+40",
+        "智识+65",
+        "敏捷+43",
+        "攻击力+7.8%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=491",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/矿场防护服·壹型.webp"
+    },
+    {
+      "name": "矿场护甲·壹型",
+      "rarity": 4,
+      "tags": [
+        "防御力+40",
+        "力量+65",
+        "意志+43",
+        "暴击率+3.9%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=490",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/矿场护甲·壹型.webp"
+    },
+    {
+      "name": "测试型重甲",
+      "rarity": 2,
+      "tags": [
+        "防御力+22",
+        "力量+37",
+        "智识+25",
+        "攻击力+11"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=489",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/测试型重甲.webp"
+    },
+    {
+      "name": "测试型重甲·壹型",
+      "rarity": 2,
+      "tags": [
+        "防御力+22",
+        "敏捷+37",
+        "意志+25",
+        "攻击力+11"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=488",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/测试型重甲·壹型.webp"
+    },
+    {
+      "name": "矿场轻甲",
+      "rarity": 2,
+      "tags": [
+        "防御力+22",
+        "敏捷+37",
+        "智识+25",
+        "生命值+9.0%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=487",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/矿场轻甲.webp"
+    },
+    {
+      "name": "矿场滤尘衣",
+      "rarity": 2,
+      "tags": [
+        "防御力+22",
+        "意志+37",
+        "敏捷+25",
+        "生命值+9.0%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=486",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/矿场滤尘衣.webp"
+    },
+    {
+      "name": "矿场护甲",
+      "rarity": 2,
+      "tags": [
+        "防御力+16",
+        "力量+27",
+        "敏捷+18",
+        "生命值+125"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=485",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/矿场护甲.webp"
+    },
+    {
+      "name": "矿场防护服",
+      "rarity": 2,
+      "tags": [
+        "防御力+16",
+        "智识+27",
+        "意志+18",
+        "生命值+125"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=484",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/矿场防护服.webp"
+    },
+    {
+      "name": "简易护甲",
+      "rarity": 1,
+      "tags": [
+        "防御力+8",
+        "力量+15",
+        "敏捷+10",
+        "生命值+46"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=483",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/简易护甲.webp"
+    },
+    {
+      "name": "简易护服",
+      "rarity": 1,
+      "tags": [
+        "防御力+8",
+        "智识+15",
+        "意志+10",
+        "生命值+46"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=482",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/简易护服.webp"
+    },
+    {
+      "name": "矿场护手·壹型",
+      "rarity": 4,
+      "tags": [
+        "防御力+30",
+        "意志+49",
+        "智识+32",
+        "终结技充能效率+15.5%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=421",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/矿场护手·壹型.webp"
+    },
+    {
+      "name": "矿场手套·贰型",
+      "rarity": 4,
+      "tags": [
+        "防御力+30",
+        "智识+49",
+        "敏捷+32",
+        "攻击力+13.0%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=420",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/矿场手套·贰型.webp"
+    },
+    {
+      "name": "矿场手套·壹型",
+      "rarity": 3,
+      "tags": [
+        "防御力+21",
+        "智识+36",
+        "敏捷+24",
+        "生命值+19.0%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=419",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/矿场手套·壹型.webp"
+    },
+    {
+      "name": "矿场手甲·壹型",
+      "rarity": 3,
+      "tags": [
+        "防御力+21",
+        "力量+36",
+        "智识+24",
+        "攻击力+9.5%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=418",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/矿场手甲·壹型.webp"
+    },
+    {
+      "name": "矿场护腕",
+      "rarity": 2,
+      "tags": [
+        "防御力+16",
+        "敏捷+28",
+        "力量+18",
+        "生命值+15.0%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=417",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/矿场护腕.webp"
+    },
+    {
+      "name": "矿场护手",
+      "rarity": 2,
+      "tags": [
+        "防御力+16",
+        "意志+28",
+        "智识+18",
+        "生命值+15.0%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=416",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/矿场护手.webp"
+    },
+    {
+      "name": "矿场手甲",
+      "rarity": 2,
+      "tags": [
+        "防御力+12",
+        "力量+20",
+        "敏捷+13",
+        "生命值+11.0%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=415",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/矿场手甲.webp"
+    },
+    {
+      "name": "矿场手套",
+      "rarity": 2,
+      "tags": [
+        "防御力+12",
+        "智识+20",
+        "意志+13",
+        "生命值+11.0%"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=414",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/矿场手套.webp"
+    },
+    {
+      "name": "简易手甲",
+      "rarity": 1,
+      "tags": [
+        "防御力+6",
+        "力量+11",
+        "敏捷+7",
+        "生命值+77"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=413",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/简易手甲.webp"
+    },
+    {
+      "name": "简易护手",
+      "rarity": 1,
+      "tags": [
+        "防御力+6",
+        "智识+11",
+        "意志+7",
+        "生命值+77"
+      ],
+      "type": "equipment",
+      "url": "https://wiki.skland.com/endfield/detail?mainTypeId=1&subTypeId=4&gameEntryId=139",
+      "image": "https://wsryhc.top/endfield/equip_images_opt/简易护手.webp"
+    }
+  ]
 }
